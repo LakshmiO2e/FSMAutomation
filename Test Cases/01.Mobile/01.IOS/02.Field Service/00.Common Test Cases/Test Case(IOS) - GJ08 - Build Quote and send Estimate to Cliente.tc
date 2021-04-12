@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - GJ08 - Build Quote and send Estimate to Cliente</name>
+   <tag></tag>
+   <comment>##### - Select Appointment
+##### - Action Call Ahead</comment>
+   <testCaseGuid>f0aaaa56-70b9-469b-a137-81cbf9cd7677</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case - Create New Book Appointment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>431bbe8e-90c3-4816-84d8-631e91fb7ac3</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8f2dbbc2-bd20-42d4-8aaa-f3df4dbf3cf3</id>
+      <masked>false</masked>
+      <name>slctWorkType</name>
+   </variable>
+</TestCaseEntity>

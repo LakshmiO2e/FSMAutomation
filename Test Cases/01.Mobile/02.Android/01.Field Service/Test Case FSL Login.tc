@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case FSL Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a1a02b1-8036-4656-bab8-6dbf97fb44ad</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7d86cf1b-a6a5-40fa-9f49-2fbc217078a3</id>
+      <masked>false</masked>
+      <name>inptUser</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>00140fa6-f58b-41d0-bed4-e1a52e6c3c09</id>
+      <masked>false</masked>
+      <name>inptPassword</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>43ae10e6-6830-48e1-b94c-ce0718e76409</id>
+      <masked>false</masked>
+      <name>passCode</name>
+   </variable>
+</TestCaseEntity>

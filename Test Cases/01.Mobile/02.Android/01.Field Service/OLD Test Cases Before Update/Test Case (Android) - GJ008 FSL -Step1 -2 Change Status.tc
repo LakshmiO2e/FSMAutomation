@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case (Android) - GJ008 FSL -Step1 -2 Change Status</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a3d24b4e-3bb3-4de5-b099-fdf03f753418</testCaseGuid>
+   <variable>
+      <defaultValue>'https://delqaapoc-o2e.cs195.force.com/1800GOTJUNK '</defaultValue>
+      <description></description>
+      <id>5c242b88-9caf-4d0a-9d9d-991b8017b3bd</id>
+      <masked>false</masked>
+      <name>variableAndroidURL</name>
+   </variable>
+   <variable>
+      <defaultValue>'gjcan.ttm3@1800gotjunk.delqaapoc'</defaultValue>
+      <description></description>
+      <id>ca62cac0-4650-48c3-b951-77ae4d2de0c2</id>
+      <masked>false</masked>
+      <name>variableUsername</name>
+   </variable>
+   <variable>
+      <defaultValue>'fsmQAfun1'</defaultValue>
+      <description></description>
+      <id>30f1a3b5-00f0-42cf-9ddc-fa956248d021</id>
+      <masked>false</masked>
+      <name>variablePassword</name>
+   </variable>
+</TestCaseEntity>

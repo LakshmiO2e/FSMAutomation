@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnGlobalSearch</name>
+   <tag></tag>
+   <elementGuidId>af8e5c70-51e6-485e-8e40-e407d0b1655e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@title='Search...']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@title='Search...']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@title='Search...']</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>GJ005</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>0be61259-e195-421e-bbe1-8f4c18c9f4a1</dataFileGUID>
+   <dataSourceUrl>C:\Users\Neeraja\Documents\O2E\Katalon\OBEAutomationTesting-develop\00.Test Cases Data Files\Data - Web GJ.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>GJ005</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

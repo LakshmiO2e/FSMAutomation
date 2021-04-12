@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - W1D021 - Add Quote Line Item to existing space and re-generate line items for Work Order</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e22d1432-e58a-494b-b10a-fda249120fbc</testCaseGuid>
+</TestCaseEntity>

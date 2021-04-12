@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS-7) - Send Job Proposal and Complete Estimate</name>
+   <tag></tag>
+   <comment>Generate Doc Menu - Start Here
+Step 1 - Choose Documents
+Step 2 - View Documents
+Step 3 - Email Documents</comment>
+   <testCaseGuid>7f049cfd-90e2-4a39-9d9b-7f3b9c9287ca</testCaseGuid>
+</TestCaseEntity>

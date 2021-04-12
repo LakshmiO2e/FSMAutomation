@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case (Android) - GJ008 FSL - Enter Work Order Actions Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>809b2b64-2d62-4e58-bb4c-615decc36ab5</testCaseGuid>
+   <variable>
+      <defaultValue>'https://delqaapoc-o2e.cs195.force.com/1800GOTJUNK '</defaultValue>
+      <description></description>
+      <id>19adc97d-8f85-4f1e-bcba-7b7c8101f386</id>
+      <masked>false</masked>
+      <name>variableAndroidURL</name>
+   </variable>
+   <variable>
+      <defaultValue>'gjcan.ttm3@1800gotjunk.delqaapoc'</defaultValue>
+      <description></description>
+      <id>e40bb88e-2450-4354-b73d-59da0915eee3</id>
+      <masked>false</masked>
+      <name>variableUsername</name>
+   </variable>
+   <variable>
+      <defaultValue>'fsmQAfun1'</defaultValue>
+      <description></description>
+      <id>5e255bc6-7474-4d1c-a6bc-a225fd87503e</id>
+      <masked>false</masked>
+      <name>variablePassword</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS-13) - Build commercial space and add space details</name>
+   <tag></tag>
+   <comment>Build Space - Start Here
+Build Space - Step 1
+Step 2 - Space Includs
+Step 3 - Baseboard Details
+Note we need do replicate the page steps as many Included we have
+Baseboard
+Ceiling
+Crow
+Wall
+Step - Space Summary</comment>
+   <testCaseGuid>e25945df-4207-44a9-b0ae-6ea8595bd96b</testCaseGuid>
+</TestCaseEntity>

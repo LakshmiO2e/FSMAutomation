@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case FSL Start Application</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a9769957-4b5f-46e8-b39f-237eeeb4f778</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>53f15db0-8a50-4486-81ee-d0962cccc984</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

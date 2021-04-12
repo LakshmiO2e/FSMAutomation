@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case (Android) - GJ010 -FSL-Step 1- Open Work Order Page</name>
+   <tag></tag>
+   <comment>Click Clock icon go to work order page</comment>
+   <testCaseGuid>d34bebca-1c8d-4aac-a4a6-81ad4423d3b2</testCaseGuid>
+</TestCaseEntity>

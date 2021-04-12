@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case FSL Open Quote</name>
+   <tag></tag>
+   <comment>Open Quote and go to SF app</comment>
+   <testCaseGuid>0482a68e-842c-41d4-afdb-db5bb7fc76fa</testCaseGuid>
+</TestCaseEntity>

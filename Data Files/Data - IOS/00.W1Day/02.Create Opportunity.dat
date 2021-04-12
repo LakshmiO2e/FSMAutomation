@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>02.Create Opportunity</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>2bd55fda-a00f-45a3-825b-f56a7eaf8abc</dataFileGUID>
+   <dataSourceUrl>/Users/Sebass/Desktop/OBEAutomationTesting/00.Test Cases Data Files/Data - IOS W1Day.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>CO-CreateOpportunity</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

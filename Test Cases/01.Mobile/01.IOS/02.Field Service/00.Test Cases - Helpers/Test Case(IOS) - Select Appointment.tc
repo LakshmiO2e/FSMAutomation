@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - Select Appointment</name>
+   <tag></tag>
+   <comment>##### - Select Appointment</comment>
+   <testCaseGuid>eed75f73-1f22-40fe-8c88-26e0c70bc6b7</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bdeb023e-bbe8-4279-a902-e318c73abe8f</id>
+      <masked>false</masked>
+      <name>slctAppointmentHour</name>
+   </variable>
+</TestCaseEntity>

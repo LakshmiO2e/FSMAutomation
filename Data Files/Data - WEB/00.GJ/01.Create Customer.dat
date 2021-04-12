@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>01.Create Customer</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>6aa2f463-a7d3-48aa-88f0-3f12d7174a72</dataFileGUID>
+   <dataSourceUrl>/Users/lakshmi.kandikuppa/Documents/Katalon/OBEAutomationTesting-develop/00.Test Cases Data Files/Data - Web GJ.xls</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Create Customer</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

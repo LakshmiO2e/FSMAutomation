@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - Add Products</name>
+   <tag></tag>
+   <comment>##### - Select Products
+##### - Verify Estimate Email
+##### - Open FSL Mobile App</comment>
+   <testCaseGuid>427cc939-20ba-4c30-92cb-93b365aa1704</testCaseGuid>
+</TestCaseEntity>

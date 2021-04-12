@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>slctAvailableHour</name>
+   <tag></tag>
+   <elementGuidId>21a6b978-771e-4a12-a793-8219dee66832</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='day-${label}-appointments']//fieldset[@class='form-wrapper']//div//label[@class='option']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='day-${label}-appointments']//fieldset[@class='form-wrapper']//div//label[@class='option']</value>
+   </webElementProperties>
+</WebElementEntity>

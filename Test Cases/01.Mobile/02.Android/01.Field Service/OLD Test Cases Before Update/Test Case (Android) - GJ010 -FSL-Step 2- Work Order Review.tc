@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case (Android) - GJ010 -FSL-Step 2- Work Order Review</name>
+   <tag></tag>
+   <comment>Click Clock icon go to work order page
+Tap ThreeDot More Detail Button</comment>
+   <testCaseGuid>3e1e3a60-797f-4af3-8327-986a58c84802</testCaseGuid>
+   <variable>
+      <defaultValue>'https://delqaapoc-o2e.cs195.force.com/1800GOTJUNK '</defaultValue>
+      <description></description>
+      <id>d99b6722-654b-46ce-95de-3583552e1daf</id>
+      <masked>false</masked>
+      <name>variableAndroidURL</name>
+   </variable>
+   <variable>
+      <defaultValue>'gjcan.ttm3@1800gotjunk.delqaapoc'</defaultValue>
+      <description></description>
+      <id>c098cded-05bb-4133-bcb8-9eeecd6d9d29</id>
+      <masked>false</masked>
+      <name>variableUsername</name>
+   </variable>
+   <variable>
+      <defaultValue>'fsmQAfun1'</defaultValue>
+      <description></description>
+      <id>c354d907-eec2-4ec9-884c-9892d38a4cca</id>
+      <masked>false</masked>
+      <name>variablePassword</name>
+   </variable>
+</TestCaseEntity>

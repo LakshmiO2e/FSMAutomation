@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>OLD_Test Case(IOS) - Update Status Service Appointment</name>
+   <tag></tag>
+   <comment>Choose Menu
+Search Appointment
+Create new Post - Comments
+Change Status</comment>
+   <testCaseGuid>41068b0e-948f-47c8-801b-db03b2427b8f</testCaseGuid>
+</TestCaseEntity>

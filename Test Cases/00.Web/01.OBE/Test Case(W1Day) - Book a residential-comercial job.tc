@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(W1Day) - Book a residential-comercial job</name>
+   <tag></tag>
+   <comment>##### - Step 1 - Please enter your ZIP or Postal code to book your consulation
+##### - Step 2 - Book your Free Consultation
+##### - Step 2 - Book your Free Consultation
+##### - Step 3 - Contact Details
+##### - Step 4 - Page Verification</comment>
+   <testCaseGuid>58302113-305b-46d9-ae95-f118661f65d0</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>08f884b6-9ad7-4867-813d-a261fd10f5b6</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4e412d5b-b5d2-4e07-909d-820692dae4b2</id>
+      <masked>false</masked>
+      <name>inptZipCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5d457edd-ecda-4962-8a4e-d7d7c4a45783</id>
+      <masked>false</masked>
+      <name>slctPropertyType</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>819a3f96-2261-4c30-aaaa-0ef009e7c429</id>
+      <masked>false</masked>
+      <name>slctWhatToPaint</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e2617e21-ca17-48de-8f10-d896417051bd</id>
+      <masked>false</masked>
+      <name>slctConsultationPrefer</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2cdaed5c-8de1-44aa-85cb-674a58a853c6</id>
+      <masked>false</masked>
+      <name>inptFirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6a681c4c-68a7-4e29-943f-df469b9d013b</id>
+      <masked>false</masked>
+      <name>inptLastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>608ab9ec-71be-4653-8f57-b28634d8e69c</id>
+      <masked>false</masked>
+      <name>inptPhone</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>92a1cc81-e85f-4494-bc2b-4d39dcd2510d</id>
+      <masked>false</masked>
+      <name>inptEmail</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>328fbb6a-7020-47ea-bf44-70da11507bac</id>
+      <masked>false</masked>
+      <name>inptFullAddress</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ab81d67f-b09c-45c2-83d1-2f9bf6d8318c</id>
+      <masked>false</masked>
+      <name>verifyPageConfirmation</name>
+   </variable>
+</TestCaseEntity>

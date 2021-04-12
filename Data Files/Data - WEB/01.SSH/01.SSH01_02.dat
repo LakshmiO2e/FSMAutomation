@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>01.SSH01_02</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>0d9741d6-4b21-4770-8a35-a5d1b1413986</dataFileGUID>
+   <dataSourceUrl>C:\Users\Neeraja\Documents\O2E\Katalon\OBEAutomationTesting-develop\00.Test Cases Data Files\Data - Web W1Day.xlsx</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>W1Day01_02</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

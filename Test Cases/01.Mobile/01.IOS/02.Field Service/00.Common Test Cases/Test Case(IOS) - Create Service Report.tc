@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - Create Service Report</name>
+   <tag></tag>
+   <comment>##### - Create Service Report
+##### - Step 1
+##### - Step 2
+##### - Generate Report</comment>
+   <testCaseGuid>b8a45281-4adf-4128-8bf3-56c1025b891f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>16815b9c-adff-4443-b035-2d12cc92155c</id>
+      <masked>false</masked>
+      <name>inptSignatureName</name>
+   </variable>
+</TestCaseEntity>

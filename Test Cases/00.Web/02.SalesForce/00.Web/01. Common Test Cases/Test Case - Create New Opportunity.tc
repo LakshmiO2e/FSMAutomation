@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create residential opportunity and book estimate appointment</description>
+   <name>Test Case - Create New Opportunity</name>
+   <tag></tag>
+   <comment>Wait for the page to Load</comment>
+   <testCaseGuid>bceebc02-92a9-4ba3-8076-129ce1382ab2</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e3489a04-67f6-4434-93e0-45e82fc8bbe0</id>
+      <masked>false</masked>
+      <name>slctType</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8ed01d5f-875e-42d9-b112-502755a238b6</id>
+      <masked>false</masked>
+      <name>slctCloseDate</name>
+   </variable>
+</TestCaseEntity>

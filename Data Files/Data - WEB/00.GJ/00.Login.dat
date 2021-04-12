@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>00.Login</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>c6532371-b4e9-450e-bd0c-8ddcb6897a12</dataFileGUID>
+   <dataSourceUrl>/Users/lakshmi.kandikuppa/Documents/Katalon/OBEAutomationTesting-develop/00.Test Cases Data Files/Data - Web GJ.xls</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>Login</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

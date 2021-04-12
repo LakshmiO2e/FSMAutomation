@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case (Android) - GJ007-FSL -Step2 - Update Status (1)</name>
+   <tag></tag>
+   <comment>Select appointment
+Go to work order page
+View service Appointment-Tap lightning button</comment>
+   <testCaseGuid>f133a999-e3d7-48fe-9ef3-ae0f866f91dd</testCaseGuid>
+   <variable>
+      <defaultValue>findTestObject('04.Mobile/02.Android/01.FS.GJ-FieldServicesActions/Service Appointment Work Order Page/android.widget.Change Status - Finish - Btn')</defaultValue>
+      <description></description>
+      <id>6884c34e-2f06-469a-9c34-de5fb9fb9de7</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

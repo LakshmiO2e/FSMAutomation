@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>01.Test Case(IOS) - W1Day</name>
+   <tag></tag>
+   <comment>##### - W1D007
+# Change Status in FSL app
+##### - W1D009
+##### - W1D014
+# Change Status in FSL app
+##### - W1D016
+##### - W1D022
+# Change Status in FSL app
+# Return to SF app to Generate Copy Doc
+##### - W1D023
+# Set Job - In Progress
+##### - W1D023
+# Set Job - Completed
+# Change Status
+##### - W1D024
+# - Open Salesforce app by previous Step
+##### - W1D025
+# Status Call Ahead
+# Status En Route
+# Status On Site
+# Generate docs and send email
+##### - W1D026</comment>
+   <testCaseGuid>4f42b6d5-7aaa-48a3-9960-c84e7c3e166e</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>29ef43c7-fbab-4cdf-b2c5-ab82e412c0c1</id>
+      <masked>false</masked>
+      <name>startAppPath</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4c890f27-e984-4a91-bb7c-b28bc3f8d05c</id>
+      <masked>false</masked>
+      <name>slctEnvironment</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>40dd21c9-5a57-4300-9b91-e80ba8d4fd23</id>
+      <masked>false</masked>
+      <name>inptUser</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fe2e08d3-de01-43fb-b5ba-94576f08dcf0</id>
+      <masked>false</masked>
+      <name>inptPassword</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5552bd52-c0e2-4945-9518-096ef49dc2cb</id>
+      <masked>false</masked>
+      <name>passCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0e600e8f-c53a-4e68-bb3f-b0bf912d0502</id>
+      <masked>false</masked>
+      <name>slctActionsMenuSetJobProgress</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1df9886f-126a-4f5e-a4fa-7ba515c1451a</id>
+      <masked>false</masked>
+      <name>slctFirstJobProgress</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>84309b63-0e3e-4631-904e-cda19c9c252c</id>
+      <masked>false</masked>
+      <name>slctSecondJobProgress</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fa5e3a3b-c058-4fee-a2a5-a0b82943d3b9</id>
+      <masked>false</masked>
+      <name>verifyJobStatusMessage</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7cd9efd1-ad30-459e-8a5a-c60739bd365a</id>
+      <masked>false</masked>
+      <name>slctActionsMenuChangeStatus</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e42a1e3c-bfc3-41f4-bd07-f21fc8ddda39</id>
+      <masked>false</masked>
+      <name>slctStatusCompleted</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>46c94f44-e4c4-46a4-b072-340ce38df48e</id>
+      <masked>false</masked>
+      <name>slctActionsMenuBookFollowUp</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0c129f11-b5fe-46f8-ad5a-c7503a55613b</id>
+      <masked>false</masked>
+      <name>inptCommentsWorkOrder</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5f238f23-691c-4f4e-926c-38ad7f8fce19</id>
+      <masked>false</masked>
+      <name>slctStatusCallAhead
+</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9c6ebd29-7060-4348-921a-987f9ebb8933</id>
+      <masked>false</masked>
+      <name>slctStatusEnRoute
+</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>759b85b2-ff86-464c-acdb-509bc15564c7</id>
+      <masked>false</masked>
+      <name>slctStatusOnSite
+</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fa65144d-8764-47a9-b74e-fb0e0d4d3bcc</id>
+      <masked>false</masked>
+      <name>slctActionsMenuBookViewQuote</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6aeca173-43f2-40cc-99cd-2381f2822960</id>
+      <masked>false</masked>
+      <name>docName1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>02664945-f082-4a54-99ee-6a3b18a07508</id>
+      <masked>false</masked>
+      <name>docName2</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>664f9fa0-9e31-45e2-8952-f852f3471aa2</id>
+      <masked>false</masked>
+      <name>slctActionsMenuMakePayment
+</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3a39f62a-3d42-41dd-96b0-9354be4b04a0</id>
+      <masked>false</masked>
+      <name>slctPaymentType</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>61b556f8-565b-4c6b-a592-22183b3a3201</id>
+      <masked>false</masked>
+      <name>slctActionsCreateServiceReport</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4b75cd84-74db-4a21-94c7-9e6a971d4355</id>
+      <masked>false</masked>
+      <name>docName1ForW1D022</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>25d407c5-396f-497a-9f10-2c33bc7f6bd5</id>
+      <masked>false</masked>
+      <name>docName2ForW1D022</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cc57b688-28d9-4385-91a9-d1d35bd86a35</id>
+      <masked>false</masked>
+      <name>slctActionsMenuViewQuote</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f608854a-014b-477b-8842-0dbe1e985695</id>
+      <masked>false</masked>
+      <name>docNameCopyForW1D022</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f1616676-363a-4a6c-aa39-e6c66985a746</id>
+      <masked>false</masked>
+      <name>verifyDocNameCopy</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7052bdc1-aace-4812-bcd6-8b0192d0ffda</id>
+      <masked>false</masked>
+      <name>docName1ForW1D014</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d50e76dd-6286-49fa-959a-295e08e99981</id>
+      <masked>false</masked>
+      <name>docName2ForW1D014</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>58b6c90b-e4f5-49d6-8117-ba253240f623</id>
+      <masked>false</masked>
+      <name>docName1ForW1D007</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>33579211-eb66-418b-9434-155f19a2834c</id>
+      <masked>false</masked>
+      <name>docName2ForW1D007</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e59b2d70-916e-4e4b-89f5-78cd3608d8c8</id>
+      <masked>false</masked>
+      <name>inptHourDaysW1D009</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0787f3f3-ecfd-4254-bff0-40eb6af84df2</id>
+      <masked>false</masked>
+      <name>inptNumberDaysW1D009</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a59bfdb3-f628-42ae-a134-c8c23abcc9bc</id>
+      <masked>false</masked>
+      <name>slctStartDateW1D009</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>118ff3c9-92c2-4220-b6bf-10b5c7f07c81</id>
+      <masked>false</masked>
+      <name>verifyAppointmentMessageW1D009</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>56757f91-99ca-45bf-b077-11b910de1e34</id>
+      <masked>false</masked>
+      <name>inptHourDaysW1D016</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>55c04cff-223d-4ba6-98bc-16f05937670b</id>
+      <masked>false</masked>
+      <name>inptNumberDaysW1D016</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dca7fa9c-4020-4d12-950a-a8ae91d6bab2</id>
+      <masked>false</masked>
+      <name>slctStartDateW1D016</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a1df09b8-13a5-4018-9d14-4cc350574db3</id>
+      <masked>false</masked>
+      <name>verifyAppointmentMessageW1D016</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>212096dc-1f57-458d-a34c-7d2da91408d2</id>
+      <masked>false</masked>
+      <name>slctPaymentTypeW1D026</name>
+   </variable>
+</TestCaseEntity>

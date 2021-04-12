@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case (Android) - GJ008 FSL -Step2 -1 Products</name>
+   <tag></tag>
+   <comment>Select appointment
+Go to work order page
+View service Appointment-Tap lightning button
+Wait to switch to SA app to loading </comment>
+   <testCaseGuid>b83a5b7c-8911-43a3-a8c8-a589e19a38bc</testCaseGuid>
+   <variable>
+      <defaultValue>'https://delqaapoc-o2e.cs195.force.com/1800GOTJUNK '</defaultValue>
+      <description></description>
+      <id>b8734f57-7b1c-4823-9214-2c0071835971</id>
+      <masked>false</masked>
+      <name>variableAndroidURL</name>
+   </variable>
+   <variable>
+      <defaultValue>'gjcan.ttm3@1800gotjunk.delqaapoc'</defaultValue>
+      <description></description>
+      <id>f3d98f4d-f6dd-4da7-bdfb-e81d136677c4</id>
+      <masked>false</masked>
+      <name>variableUsername</name>
+   </variable>
+   <variable>
+      <defaultValue>'fsmQAfun1'</defaultValue>
+      <description></description>
+      <id>33773e1b-5dac-4187-b3c0-78d375ec2f0f</id>
+      <masked>false</masked>
+      <name>variablePassword</name>
+   </variable>
+</TestCaseEntity>

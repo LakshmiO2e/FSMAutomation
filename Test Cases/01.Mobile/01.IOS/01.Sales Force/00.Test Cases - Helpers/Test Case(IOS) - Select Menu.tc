@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - Select Menu</name>
+   <tag></tag>
+   <comment>Choose Menu</comment>
+   <testCaseGuid>27ee3878-2600-4b8f-9327-ccf6b00b1082</testCaseGuid>
+   <variable>
+      <defaultValue>'Menu'</defaultValue>
+      <description></description>
+      <id>f5c629df-5ea2-4dce-81b5-d2299de68fac</id>
+      <masked>false</masked>
+      <name>menu</name>
+   </variable>
+   <variable>
+      <defaultValue>'Create Customer'</defaultValue>
+      <description></description>
+      <id>62054ce0-31ee-4101-b350-24c1258c6138</id>
+      <masked>false</masked>
+      <name>leftMenu</name>
+   </variable>
+</TestCaseEntity>

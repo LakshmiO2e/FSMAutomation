@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>04.inptPhone</name>
+   <tag></tag>
+   <elementGuidId>13a59aaf-ef44-40f2-927b-9939af9450e1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[contains(text(),'Phone')]/parent::*//input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[contains(text(),'Phone')]/parent::*//input</value>
+   </webElementProperties>
+</WebElementEntity>

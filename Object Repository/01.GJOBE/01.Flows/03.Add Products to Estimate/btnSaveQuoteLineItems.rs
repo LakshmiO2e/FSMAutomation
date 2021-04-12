@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnSaveQuoteLineItems</name>
+   <tag></tag>
+   <elementGuidId>e9308202-d5f4-4dd4-a806-c8702cb9e840</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[contains(text(),'Save')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(text(),'Save')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[contains(text(),'Save')]</value>
+   </webElementProperties>
+</WebElementEntity>

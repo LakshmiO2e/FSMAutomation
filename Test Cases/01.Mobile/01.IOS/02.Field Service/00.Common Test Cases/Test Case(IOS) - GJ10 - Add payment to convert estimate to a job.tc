@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - GJ10 - Add payment to convert estimate to a job</name>
+   <tag></tag>
+   <comment>##### - Select Appointment
+###################################
+##### - Action Menu
+##### - Generate Service Report
+##### - Step 1
+##### - Step 2
+##### - Step 3
+##### - Verify - If Status is Completed</comment>
+   <testCaseGuid>0d73a147-6f05-4c59-bf38-f6ad0327a99e</testCaseGuid>
+</TestCaseEntity>

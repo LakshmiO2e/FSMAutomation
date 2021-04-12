@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - Schedule a crew for a paint Job</name>
+   <tag></tag>
+   <comment>Generate Doc Menu - Start Here
+Step 1 - Choose Documents
+Step 2 - View Documents</comment>
+   <testCaseGuid>aa13d716-3618-4296-a535-8ea05311f4cb</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnProductsonEstimate</name>
+   <tag></tag>
+   <elementGuidId>78341c2d-7bc3-49f9-81a9-dfd0c3f1a167</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@title='Products']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@title='Products']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@title='Products']</value>
+   </webElementProperties>
+</WebElementEntity>

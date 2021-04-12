@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create residential opportunity and book estimate appointment</description>
+   <name>Test Case - Validation Service Appointment Infos</name>
+   <tag></tag>
+   <comment>Wait for the page to Load
+Verify Contact Information
+Verify Name
+Verify Phone
+Verify Service Address</comment>
+   <testCaseGuid>5ef5f323-fe2c-4863-8f70-480cc84473f8</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f4c71277-6444-4235-acc1-a29359930d27</id>
+      <masked>false</masked>
+      <name>inputDateTomorrow</name>
+   </variable>
+</TestCaseEntity>

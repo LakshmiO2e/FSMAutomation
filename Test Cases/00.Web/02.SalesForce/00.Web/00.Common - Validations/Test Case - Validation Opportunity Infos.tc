@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Create residential opportunity and book estimate appointment</description>
+   <name>Test Case - Validation Opportunity Infos</name>
+   <tag></tag>
+   <comment>Wait for the page to Load
+Verify Opportunity Detail
+Verify Opportunity Record Type
+Verify Opportunity ID
+Type</comment>
+   <testCaseGuid>b864222b-bf00-45ce-87aa-f85e302fa656</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d232b849-c9c8-444c-a80c-47f233bffb7c</id>
+      <masked>false</masked>
+      <name>inputDateTomorrow</name>
+   </variable>
+</TestCaseEntity>

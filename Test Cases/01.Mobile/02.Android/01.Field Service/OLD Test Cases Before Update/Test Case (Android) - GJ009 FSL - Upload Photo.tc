@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case (Android) - GJ009 FSL - Upload Photo</name>
+   <tag></tag>
+   <comment>After login to FSL open appointment page
+Select appointment
+Go to work order page
+View service Appointment-Tap lightning button</comment>
+   <testCaseGuid>2c09d10b-7a65-4300-bfab-012bb14e6092</testCaseGuid>
+   <variable>
+      <defaultValue>'https://delqaapoc-o2e.cs195.force.com/1800GOTJUNK '</defaultValue>
+      <description></description>
+      <id>d91a1fd2-390c-4d5b-ad45-454fd42fe9e5</id>
+      <masked>false</masked>
+      <name>variableAndroidURL</name>
+   </variable>
+   <variable>
+      <defaultValue>'gjcan.ttm3@1800gotjunk.delqaapoc'</defaultValue>
+      <description></description>
+      <id>ffd677a2-d96c-418b-b286-97aaea42ea56</id>
+      <masked>false</masked>
+      <name>variableUsername</name>
+   </variable>
+   <variable>
+      <defaultValue>'fsmQAfun1'</defaultValue>
+      <description></description>
+      <id>4e2e28c6-c1f1-45c9-94ba-bf1420d2330b</id>
+      <masked>false</masked>
+      <name>variablePassword</name>
+   </variable>
+</TestCaseEntity>

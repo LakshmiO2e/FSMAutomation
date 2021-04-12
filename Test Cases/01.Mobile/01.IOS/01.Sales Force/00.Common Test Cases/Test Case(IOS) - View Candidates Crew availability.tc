@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - View Candidates Crew availability</name>
+   <tag></tag>
+   <comment>Step 1 - Candidates
+Step 2 - Candidates
+Step 2 - Verify date for Crew</comment>
+   <testCaseGuid>31a6ab4c-56f3-4cde-96ea-fbc3057beda3</testCaseGuid>
+</TestCaseEntity>

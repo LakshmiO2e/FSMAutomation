@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>slctWorkType</name>
+   <tag></tag>
+   <elementGuidId>5c13d3aa-83c1-4f71-ba15-f2237e08526d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//select[@id='AN-ServiceTypeInput']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//select[@id='AN-ServiceTypeInput']</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/01.GJOBE/01.Flows/01. New Opportunity/02.Step - Book Appointment/iFrameBookAppointment</value>
+   </webElementProperties>
+</WebElementEntity>

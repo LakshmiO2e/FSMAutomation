@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginFSL</name>
+   <tag></tag>
+   <comment>##### - Verify if we need to input PassCode or Login info</comment>
+   <testCaseGuid>2a4f6cfe-0c9c-438c-ba8e-0d176308b8c0</testCaseGuid>
+</TestCaseEntity>

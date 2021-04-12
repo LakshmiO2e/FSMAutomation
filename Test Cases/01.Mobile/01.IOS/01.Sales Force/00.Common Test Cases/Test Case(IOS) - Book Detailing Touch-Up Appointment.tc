@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - Book Detailing Touch-Up Appointment</name>
+   <tag></tag>
+   <comment>Wait for the app to Load</comment>
+   <testCaseGuid>280a722d-9fec-487d-851f-d0153286d080</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2392e3b0-b18f-48c2-855a-26f12a298c12</id>
+      <masked>false</masked>
+      <name>inptComments</name>
+   </variable>
+</TestCaseEntity>

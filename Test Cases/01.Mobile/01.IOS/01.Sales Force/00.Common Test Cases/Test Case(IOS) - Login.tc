@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - Login</name>
+   <tag></tag>
+   <comment>##### - Verify if we need to input PassCode or Login info
+##### - Verify if we need click Allow</comment>
+   <testCaseGuid>42b95156-04de-43b2-a255-3c5bbdf24dde</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>29ef43c7-fbab-4cdf-b2c5-ab82e412c0c1</id>
+      <masked>false</masked>
+      <name>startAppPath</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4c890f27-e984-4a91-bb7c-b28bc3f8d05c</id>
+      <masked>false</masked>
+      <name>slctEnvironment</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>40dd21c9-5a57-4300-9b91-e80ba8d4fd23</id>
+      <masked>false</masked>
+      <name>inptUser</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fe2e08d3-de01-43fb-b5ba-94576f08dcf0</id>
+      <masked>false</masked>
+      <name>inptPassword</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5552bd52-c0e2-4945-9518-096ef49dc2cb</id>
+      <masked>false</masked>
+      <name>passCode</name>
+   </variable>
+</TestCaseEntity>

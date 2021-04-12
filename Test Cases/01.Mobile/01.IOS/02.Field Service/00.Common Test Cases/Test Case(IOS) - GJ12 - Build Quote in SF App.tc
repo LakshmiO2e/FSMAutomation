@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - GJ12 - Build Quote in SF App</name>
+   <tag></tag>
+   <comment>##### - Select Appointment
+##### - Action Call Ahead</comment>
+   <testCaseGuid>005c43c0-68a9-4db8-b245-1529f923e118</testCaseGuid>
+</TestCaseEntity>

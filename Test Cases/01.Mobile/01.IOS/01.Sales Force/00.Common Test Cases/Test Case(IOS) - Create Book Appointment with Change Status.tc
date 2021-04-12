@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - Create Book Appointment with Change Status</name>
+   <tag></tag>
+   <comment>###### - Step 1
+###### - Step 2 - Select Date Slot
+###### - Click View Service Appointment
+###### - Select Menu - Change Status</comment>
+   <testCaseGuid>41fc3e3a-5d2c-4088-b4a8-53a82f8ce4bd</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>448b4cdf-7550-4e83-9066-a14272694aed</id>
+      <masked>false</masked>
+      <name>slctWorkType</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ff9957c9-86e7-4964-9b60-79dc656146be</id>
+      <masked>false</masked>
+      <name>verifyAddress</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5feae79e-99a7-4d15-ba82-bf03a6f65fd3</id>
+      <masked>false</masked>
+      <name>slctChangeStatus</name>
+   </variable>
+</TestCaseEntity>

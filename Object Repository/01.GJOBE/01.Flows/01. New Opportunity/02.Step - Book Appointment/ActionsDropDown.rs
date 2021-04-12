@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ActionsDropDown</name>
+   <tag></tag>
+   <elementGuidId>5aa0dcdc-ff10-4a71-ac93-d0746e4bbc34</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//li[@data-aura-class=&quot;oneActionsDropDown&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@data-aura-class=&quot;oneActionsDropDown&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//li[@data-aura-class=&quot;oneActionsDropDown&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

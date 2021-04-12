@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - Passcode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1673a4fd-90e5-4a84-9028-e2c49d4d6524</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fc491b5f-ab54-4260-9b55-deadc294e972</id>
+      <masked>false</masked>
+      <name>passCode</name>
+   </variable>
+</TestCaseEntity>

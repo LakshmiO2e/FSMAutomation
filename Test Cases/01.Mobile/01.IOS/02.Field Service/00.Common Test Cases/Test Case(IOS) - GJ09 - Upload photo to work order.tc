@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - GJ09 - Upload photo to work order</name>
+   <tag></tag>
+   <comment>##### - Select Appointment
+##### - Action Menu
+##### - Upload Frist Photo
+##### - Step 1
+##### - Step 2
+##### - Upload Frist Photo
+##### - Step 1
+##### - Step 2
+##### - Verify - If we get Success message for upload photos</comment>
+   <testCaseGuid>1ba40b9a-592d-4017-8c21-26f70c6e660b</testCaseGuid>
+</TestCaseEntity>

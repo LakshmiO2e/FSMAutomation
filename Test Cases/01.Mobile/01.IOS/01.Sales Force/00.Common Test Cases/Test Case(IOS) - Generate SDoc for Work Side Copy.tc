@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - Generate SDoc for Work Side Copy</name>
+   <tag></tag>
+   <comment>Step 1 - Select Docs</comment>
+   <testCaseGuid>7e38062e-4b5a-42ec-a711-0e15a17b0ba8</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>402f3695-3752-43d1-ab9f-0453622e1903</id>
+      <masked>false</masked>
+      <name>docNameCopy</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c4a339d9-968b-4d22-858d-2260e606ddab</id>
+      <masked>false</masked>
+      <name>verifyDocNameCopy</name>
+   </variable>
+</TestCaseEntity>

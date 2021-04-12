@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case - Validation Customer Info</name>
+   <tag></tag>
+   <comment>Verify - If Customer Info are Ok
+Verify - Customer Name</comment>
+   <testCaseGuid>73f7b0bf-8341-4d24-8c4c-23cd7ba8813a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e6ab6901-3fe5-4448-b1f5-0f62f33defd9</id>
+      <masked>false</masked>
+      <name>validationFullName</name>
+   </variable>
+</TestCaseEntity>

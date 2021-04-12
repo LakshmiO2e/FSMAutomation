@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - Verify Quote Status</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9d60b5d6-f0fb-4c74-a2b7-11ed2ab5937d</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a00c690b-7a86-4607-bea2-9a51400e4a62</id>
+      <masked>false</masked>
+      <name>verifyQuoteStatus</name>
+   </variable>
+</TestCaseEntity>

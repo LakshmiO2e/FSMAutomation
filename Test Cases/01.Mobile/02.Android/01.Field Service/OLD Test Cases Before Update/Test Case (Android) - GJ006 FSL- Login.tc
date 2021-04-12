@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case (Android) - GJ006 FSL- Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9db30fa-3743-4fc7-a2bb-f3a1ae1ff0df</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.variableAndroidURL</defaultValue>
+      <description></description>
+      <id>d0e7623c-ab26-4297-8340-ffa9c3aa352a</id>
+      <masked>false</masked>
+      <name>startAppPath</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.null</defaultValue>
+      <description></description>
+      <id>d0e7623c-ab26-4297-8340-ffa9c3aa352a</id>
+      <masked>false</masked>
+      <name>passCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d0e7623c-ab26-4297-8340-ffa9c3aa352a</id>
+      <masked>false</masked>
+      <name>slctEnvironment</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.variableUsername</defaultValue>
+      <description></description>
+      <id>d0e7623c-ab26-4297-8340-ffa9c3aa352a</id>
+      <masked>false</masked>
+      <name>inptUser</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.variablePassword</defaultValue>
+      <description></description>
+      <id>d0e7623c-ab26-4297-8340-ffa9c3aa352a</id>
+      <masked>false</masked>
+      <name>inptPassword</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.andriodPasscode</defaultValue>
+      <description></description>
+      <id>3cf2553d-0fcb-45e3-8aec-ab2bbfa4f5cf</id>
+      <masked>false</masked>
+      <name>androidPassword</name>
+   </variable>
+</TestCaseEntity>

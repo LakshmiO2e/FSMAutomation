@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case - Login</name>
+   <tag></tag>
+   <comment>Open the Browser with the URL
+Insert User Credentials</comment>
+   <testCaseGuid>762ca304-c745-4c59-976c-0b9830e6498c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7ce9a69d-65e7-4ec8-97ce-cd9f0c446b0e</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c5505120-125c-4bb5-a627-e52885793214</id>
+      <masked>false</masked>
+      <name>inptUser</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a54f520a-4dd0-4beb-a98c-73152a14617c</id>
+      <masked>false</masked>
+      <name>inptPassword</name>
+   </variable>
+</TestCaseEntity>

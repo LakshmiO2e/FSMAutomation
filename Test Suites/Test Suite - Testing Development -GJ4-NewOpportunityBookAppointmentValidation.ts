@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test Suite - Testing Development -GJ4-NewOpportunityBookAppointmentValidation</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>674686a4-c00a-4de0-950e-143817c6b911</testSuiteGuid>
+   <testCaseLink>
+      <guid>1c9d9a42-82d3-409c-8021-5ab597da8b87</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/00.Web/01.OBE/Test Case - Create New Opportunity and Book Appointment</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ee9997e9-8993-45d4-8d8c-450930d572ff</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>59837f89-556f-4871-ad42-3bae8dd93cb5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/00.Web/01.OBE/Test Case - Validate Opportunity Type in Opportunity Page</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>793b1351-252c-4ca3-b75b-362b7d2cd16e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6c9d08a7-1460-4d2e-b69d-4f413f9e7819</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>74768724-68b5-4bc7-a45c-d6e603b7803f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/00.Web/01.OBE/Test Case - Validate Service Appointment in Service Appointment Page</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2a84d87f-7c9a-4c5c-a5f4-8cea80d6129e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8a6a7bcb-8dc2-457f-9024-646cf6d6316d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ae70be02-aca3-4b1d-8f8e-a554b709802a</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

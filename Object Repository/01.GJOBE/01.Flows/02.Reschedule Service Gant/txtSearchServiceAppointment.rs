@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txtSearchServiceAppointment</name>
+   <tag></tag>
+   <elementGuidId>82952b91-bb3d-4ff7-a778-d6231bfca63f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='TaskSearchFilterInput']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='TaskSearchFilterInput']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='TaskSearchFilterInput']</value>
+   </webElementProperties>
+</WebElementEntity>

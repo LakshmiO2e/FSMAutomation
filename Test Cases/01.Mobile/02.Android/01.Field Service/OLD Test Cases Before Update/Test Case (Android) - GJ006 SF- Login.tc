@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case (Android) - GJ006 SF- Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4b278e84-45d8-408b-8848-0302b625bb60</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>261e0a0b-9faa-4466-a0e7-35b5324a254e</id>
+      <masked>false</masked>
+      <name>androidFileApp</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>84d2370e-4e79-4055-9a52-3cf0776234f8</id>
+      <masked>false</masked>
+      <name>inptUser</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f9cb39bd-73fd-4da3-a75e-83d5ab0f78ab</id>
+      <masked>false</masked>
+      <name>inptPassword</name>
+   </variable>
+</TestCaseEntity>

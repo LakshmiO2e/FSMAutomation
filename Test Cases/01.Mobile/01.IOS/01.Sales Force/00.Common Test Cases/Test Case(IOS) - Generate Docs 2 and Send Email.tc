@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - Generate Docs 2 and Send Email</name>
+   <tag></tag>
+   <comment>Step 1 - Select Docs
+###### - Step 2 - View Documents
+###### - Step 3 - Email Documents</comment>
+   <testCaseGuid>8b155e91-bbae-4630-b279-d39b61f22d30</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>77cecb4e-4e58-42de-8dd6-21aac29c370d</id>
+      <masked>false</masked>
+      <name>docName1</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b2c4388e-ee3d-4379-a6b7-f0233326b8e6</id>
+      <masked>false</masked>
+      <name>docName2</name>
+   </variable>
+</TestCaseEntity>

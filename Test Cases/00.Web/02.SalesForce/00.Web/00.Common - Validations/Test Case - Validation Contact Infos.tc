@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case - Validation Contact Infos</name>
+   <tag></tag>
+   <comment>Wait for the page to Load
+Verify Contact Information
+Verify Name
+Verify Phone
+Verify Service Address</comment>
+   <testCaseGuid>7bea2da3-d10d-4f6d-adf6-63c14b04fa00</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>930965ff-b286-4966-9632-233d29611acd</id>
+      <masked>false</masked>
+      <name>validationFullName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - Create Book Appointment</name>
+   <tag></tag>
+   <comment>###### - Step 1
+###### - Step 2 - Select Date Slot
+###### - Click View Service Appointment
+###### - Select Menu - Change Status</comment>
+   <testCaseGuid>43f4d135-1d87-4155-9576-ad3e754476f5</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8573049f-b9ea-480a-b444-0d898424fc94</id>
+      <masked>false</masked>
+      <name>slctWorkType</name>
+   </variable>
+</TestCaseEntity>

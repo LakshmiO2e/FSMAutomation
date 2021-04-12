@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case (Android) - GJ007-FSL-Step001 Show Service Appointment</name>
+   <tag></tag>
+   <comment>Select appointment
+Go to work order page</comment>
+   <testCaseGuid>5a53cf3d-8a72-43ef-8b3e-a415f6a01815</testCaseGuid>
+</TestCaseEntity>

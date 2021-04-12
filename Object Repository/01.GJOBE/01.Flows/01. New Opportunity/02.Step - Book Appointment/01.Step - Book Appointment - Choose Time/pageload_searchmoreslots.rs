@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pageload_searchmoreslots</name>
+   <tag></tag>
+   <elementGuidId>43f9c530-49d4-410c-bd8b-9b13b1154829</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='AN-StillGettingSlots']//img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='AN-StillGettingSlots']//img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='AN-StillGettingSlots']//img</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>step2</description>
+   <name>Test Case FSL Open Work Order</name>
+   <tag></tag>
+   <comment>Go to work order page</comment>
+   <testCaseGuid>0c79edf5-982d-475c-8a33-723b87bf6778</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - Set Job Progress</name>
+   <tag></tag>
+   <comment>##### - Set Job Progress - Menu</comment>
+   <testCaseGuid>93303468-b43a-4275-9cb4-ffb47bd7362f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3ceba925-91b0-455d-b1a2-60ca2629aea2</id>
+      <masked>false</masked>
+      <name>slctStatus</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7458ec93-8ee9-46f7-b69f-f2122956a6d3</id>
+      <masked>false</masked>
+      <name>verifyIfStatusChange</name>
+   </variable>
+</TestCaseEntity>

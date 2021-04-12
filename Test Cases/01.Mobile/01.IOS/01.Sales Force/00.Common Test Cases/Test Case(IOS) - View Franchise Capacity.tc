@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - View Franchise Capacity</name>
+   <tag></tag>
+   <comment>##### - Select Menu - View Franchise Capacity
+##### - Screen 1
+##### - Screen 2 </comment>
+   <testCaseGuid>14193805-1d28-463e-82ec-75fd49aebe11</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e59b2d70-916e-4e4b-89f5-78cd3608d8c8</id>
+      <masked>false</masked>
+      <name>inptHourDays</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0787f3f3-ecfd-4254-bff0-40eb6af84df2</id>
+      <masked>false</masked>
+      <name>inptNumberDays</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a59bfdb3-f628-42ae-a134-c8c23abcc9bc</id>
+      <masked>false</masked>
+      <name>slctStartDate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>118ff3c9-92c2-4220-b6bf-10b5c7f07c81</id>
+      <masked>false</masked>
+      <name>verifyAppointmentMessage</name>
+   </variable>
+</TestCaseEntity>

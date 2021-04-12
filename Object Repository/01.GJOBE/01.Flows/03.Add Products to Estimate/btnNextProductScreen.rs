@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnNextProductScreen</name>
+   <tag></tag>
+   <elementGuidId>93bcc452-d53b-48cb-9c09-7eb16406431e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[contains(text(),'Next')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[contains(text(),'Next')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[contains(text(),'Next')]</value>
+   </webElementProperties>
+</WebElementEntity>

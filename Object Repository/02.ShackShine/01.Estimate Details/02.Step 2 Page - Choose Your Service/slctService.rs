@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>slctService</name>
+   <tag></tag>
+   <elementGuidId>1d59de88-8f36-4d3a-aabd-49332ab42dac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//fieldset[@id='edit-${label}-wrap']//a//div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//fieldset[@id='edit-${label}-wrap']//a//div</value>
+   </webElementProperties>
+</WebElementEntity>

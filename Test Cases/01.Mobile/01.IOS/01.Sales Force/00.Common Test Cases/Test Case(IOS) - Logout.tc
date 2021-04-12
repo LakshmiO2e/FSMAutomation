@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - Logout</name>
+   <tag></tag>
+   <comment>Tap on top icon -  User Profile</comment>
+   <testCaseGuid>c92f3129-6f05-4d41-b21e-9d864feba8bb</testCaseGuid>
+</TestCaseEntity>

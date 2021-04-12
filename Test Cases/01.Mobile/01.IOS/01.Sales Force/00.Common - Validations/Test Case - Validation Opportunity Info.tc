@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case - Validation Opportunity Info</name>
+   <tag></tag>
+   <comment>Verify - If opportunity values are Ok
+Verify - Opportunity Type
+Verify - Opportunity Status</comment>
+   <testCaseGuid>1f685256-4f14-4aed-a2e6-15b5290c1af6</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>332fa7f3-f40a-46a3-b1b7-84c19f8ec49e</id>
+      <masked>false</masked>
+      <name>validationOpportunityStatus</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c9ed7575-0b48-47be-bdd9-8b1819439be7</id>
+      <masked>false</masked>
+      <name>validationOpportunityType</name>
+   </variable>
+</TestCaseEntity>

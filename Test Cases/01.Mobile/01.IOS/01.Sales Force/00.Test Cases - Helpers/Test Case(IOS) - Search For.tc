@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - Search For</name>
+   <tag></tag>
+   <comment>Choose Menu
+Search for...</comment>
+   <testCaseGuid>96cba594-68bd-4318-a3e2-198fcd910edf</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e28985a9-18dc-446b-80bf-9725d16e8b2b</id>
+      <masked>false</masked>
+      <name>searchBarName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8e51a4ab-ae60-4a51-8d08-1fbcda3aa269</id>
+      <masked>false</masked>
+      <name>valueToSearch</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - Verify Quote Lines and Generate Quote Lines</name>
+   <tag></tag>
+   <comment>##### - Related View</comment>
+   <testCaseGuid>5e572673-9fd4-4e97-8beb-f1fc184a87ac</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4069c765-7caf-4306-9c97-10c8eb0f7c8c</id>
+      <masked>false</masked>
+      <name>verifyQuoteLinesProduct1</name>
+   </variable>
+</TestCaseEntity>

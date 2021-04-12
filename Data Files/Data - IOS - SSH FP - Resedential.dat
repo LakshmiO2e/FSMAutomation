@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Data - IOS - SSH FP - Resedential</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>113deb7d-af68-470c-9823-7a4cabb8fee3</dataFileGUID>
+   <dataSourceUrl>/Users/lakshmi.kandikuppa/Documents/Katalon/OBEAutomationTesting-develop/00.Test Cases Data Files/Data - IOS SSH FP IPAD.xls</dataSourceUrl>
+   <driver>ExcelFile</driver>
+   <isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName>SSH-FP</sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

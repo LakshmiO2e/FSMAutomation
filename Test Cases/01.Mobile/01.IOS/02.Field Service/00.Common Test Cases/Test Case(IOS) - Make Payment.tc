@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - Make Payment</name>
+   <tag></tag>
+   <comment>##### - Make Payment - View
+# Select Type of Payment</comment>
+   <testCaseGuid>277a3613-58e1-4533-ae95-fba05e34e262</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1d4a3331-7c38-48ca-ba37-7d9ac1d19f35</id>
+      <masked>false</masked>
+      <name>slctPaymentType</name>
+   </variable>
+</TestCaseEntity>

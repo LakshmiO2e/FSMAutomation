@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - Create Opportunity</name>
+   <tag></tag>
+   <comment>###### - Create Opportunity
+###### - Job Information
+###### - Verify - If we select Interior or Exterior</comment>
+   <testCaseGuid>14877ea2-fadb-455b-9c91-654fa8149f5a</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>67733036-42f5-463a-b2b1-c488f0db8d19</id>
+      <masked>false</masked>
+      <name>slctType</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6384c1b5-8e88-4528-8d49-d1b2e98ed8f5</id>
+      <masked>false</masked>
+      <name>slctCloseDate</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>361e6ba9-d383-48be-9c76-1ca69ce0c443</id>
+      <masked>false</masked>
+      <name>slctLocationType</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8feb736c-f7be-4030-818b-15a095b97929</id>
+      <masked>false</masked>
+      <name>slctArea</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fe45a08e-70bd-4694-8050-6451bcf555bf</id>
+      <masked>false</masked>
+      <name>validationOpportunityStatus</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>96862d60-7088-4f32-81c6-81cb56ec1bc4</id>
+      <masked>false</masked>
+      <name>validationOpportunityType</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - Change Status</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>67c2a46c-bfa8-4d9e-b7df-613b8fdad14b</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>12ef31ce-7087-4a28-8b2e-cf08337c308e</id>
+      <masked>false</masked>
+      <name>slctStatus</name>
+   </variable>
+</TestCaseEntity>

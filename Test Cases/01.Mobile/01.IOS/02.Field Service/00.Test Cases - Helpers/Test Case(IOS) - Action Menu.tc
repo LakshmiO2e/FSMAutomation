@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - Action Menu</name>
+   <tag></tag>
+   <comment>##### - Actions Menu Options</comment>
+   <testCaseGuid>852087e5-2309-49ed-b737-1c4371c9dc1f</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>27629181-ecec-4f58-9bd6-31b12e7436a1</id>
+      <masked>false</masked>
+      <name>slctActionsMenu</name>
+   </variable>
+</TestCaseEntity>

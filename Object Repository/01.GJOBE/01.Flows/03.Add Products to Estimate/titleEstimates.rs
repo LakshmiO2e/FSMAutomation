@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>titleEstimates</name>
+   <tag></tag>
+   <elementGuidId>943f69f5-c9ba-45ef-a0a7-00d6aaf6eea4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//span[@title='Estimates']</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@title='Estimates']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span[@title='Estimates']</value>
+   </webElementProperties>
+</WebElementEntity>

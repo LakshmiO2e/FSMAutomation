@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>05.inptMobile</name>
+   <tag></tag>
+   <elementGuidId>5721fb87-c0a9-4230-a0e5-eb0ca3826d28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//label[contains(text(),'Mobile')]/parent::*//input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//label[contains(text(),'Mobile')]/parent::*//input</value>
+   </webElementProperties>
+</WebElementEntity>

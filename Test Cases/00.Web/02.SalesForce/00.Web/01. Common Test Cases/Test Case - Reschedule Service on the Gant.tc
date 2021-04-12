@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case - Reschedule Service on the Gant</name>
+   <tag></tag>
+   <comment>Select Menu - Field Service</comment>
+   <testCaseGuid>8160e133-89ae-40c5-a84c-41241c5b4422</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>00d0c0e7-1eee-49e4-b55a-369f49576b64</id>
+      <masked>false</masked>
+      <name>inptGanttDays</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>239ac611-1071-4193-afc3-836405e72617</id>
+      <masked>false</masked>
+      <name>teamName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>77cca9b2-1cf1-4b5d-8b1f-73f7feeaa480</id>
+      <masked>false</masked>
+      <name>serviceName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7702526c-a7a9-4f25-a6f6-02ebedc24613</id>
+      <masked>false</masked>
+      <name>statusValue</name>
+   </variable>
+</TestCaseEntity>

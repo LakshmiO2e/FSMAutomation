@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>rbtnSelectTime</name>
+   <tag></tag>
+   <elementGuidId>c6225276-2818-4932-9e66-29f44a2bf670</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[contains(@id,'edit-availabilityday1')]//div[contains(@class,'obeAvailabilityToggle')][1]//following::input[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[contains(@id,'edit-availabilityday1')]//div[contains(@class,'obeAvailabilityToggle')][1]//following::input[1]</value>
+   </webElementProperties>
+</WebElementEntity>

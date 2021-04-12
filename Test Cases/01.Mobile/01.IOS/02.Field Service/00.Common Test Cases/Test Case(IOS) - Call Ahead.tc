@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(IOS) - Call Ahead</name>
+   <tag></tag>
+   <comment>##### - Select Appointment
+##### - Action Call Ahead
+##### - Step 2 </comment>
+   <testCaseGuid>8ddf3cb1-2b8f-4802-b9f5-37a6ee7ea525</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>42e981ca-caf4-4a08-8a97-7750ae4313a6</id>
+      <masked>false</masked>
+      <name>slctCallOutcome</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3ff7d741-ec8a-45f8-8290-4f4bd1ebd471</id>
+      <masked>false</masked>
+      <name>inptComments</name>
+   </variable>
+</TestCaseEntity>

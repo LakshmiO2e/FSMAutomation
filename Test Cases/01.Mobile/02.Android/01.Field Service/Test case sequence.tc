@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test case sequence</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7fc05d7-b95e-404b-9364-57a1fca64b58</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0d5bcfbd-7763-47ca-8dff-34633525bdf1</id>
+      <masked>false</masked>
+      <name>startAppPath</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>952adcef-1aef-485f-8abe-6655d751a393</id>
+      <masked>false</masked>
+      <name>inptUser</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>866fce83-c82f-4cc2-884d-6acb27ed1acb</id>
+      <masked>false</masked>
+      <name>inptPassword</name>
+   </variable>
+</TestCaseEntity>
