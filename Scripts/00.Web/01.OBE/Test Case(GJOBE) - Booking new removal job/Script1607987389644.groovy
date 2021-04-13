@@ -21,7 +21,7 @@ WebUI.openBrowser('https://fsmqa-auto-gj-na-obe.pantheonsite.io/onlinebooking')
 
 WebUI.maximizeWindow()
 
-WebUI.delay(10)
+//WebUI.delay(10)
 
 WebUI.comment('##### - Step 1')
 
@@ -68,12 +68,12 @@ WebUI.setText(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen
 
 WebUI.setText(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen/inptPhoneNr'), phoneNr)
 
-WebUI.click(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen/chkboxPromoCode'))
+//WebUI.click(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen/chkboxPromoCode'))
 
-WebUI.setText(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen/inptPromocode'), 'QAEARLPERCDISCGJ')
+//WebUI.setText(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen/inptPromocode'), 'QAEARLPERCDISCGJ')
 
-WebUI.selectOptionByValue(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen/slctPhoneType'), phoneType, 
-    false)
+//WebUI.selectOptionByValue(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen/slctPhoneType'), phoneType, 
+  //  false)
 
 WebUI.comment('##### - Step 4')
 
