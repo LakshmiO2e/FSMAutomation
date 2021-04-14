@@ -17,12 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import Common as Common
 
-WebUI.openBrowser('https://fsmqa-auto-gj-na-obe.pantheonsite.io/onlinebooking')
+WebUI.openBrowser('https://fsmuat-gj-na-obe.pantheonsite.io/')
 
 WebUI.maximizeWindow()
 
 //WebUI.delay(10)
-
 WebUI.comment('##### - Step 1')
 
 WebUI.waitForElementPresent(findTestObject('01.GJOBE/02.Create new Appointment/Step 1 - Screen/inptZipCode'), 30)
@@ -37,8 +36,7 @@ WebUI.comment('##### - Step 2')
 
 WebUI.waitForElementNotVisible(findTestObject('01.GJOBE/00.CommonObjects/loadingSpinner'), 0)
 
-WebUI.setText(findTestObject('01.GJOBE/02.Create new Appointment/Step 1 - Screen/txtDescription'), 'Test Automation Residential NA Junk removal ')
-
+//WebUI.setText(findTestObject('01.GJOBE/02.Create new Appointment/Step 1 - Screen/txtDescription'), 'Test Automation Residential NA Junk removal ')
 CustomKeywords.'GJOBE.SelectDayAndTime'()
 
 WebUI.click(findTestObject('00.Common Objects/btnNextPickUpAddress-Continue'))
@@ -69,12 +67,9 @@ WebUI.setText(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen
 WebUI.setText(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen/inptPhoneNr'), phoneNr)
 
 //WebUI.click(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen/chkboxPromoCode'))
-
 //WebUI.setText(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen/inptPromocode'), 'QAEARLPERCDISCGJ')
-
 //WebUI.selectOptionByValue(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen/slctPhoneType'), phoneType, 
-  //  false)
-
+//  false)
 WebUI.comment('##### - Step 4')
 
 WebUI.click(findTestObject('00.Common Objects/btnNextPickUpAddress-Continue'))
