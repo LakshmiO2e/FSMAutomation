@@ -6,7 +6,7 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>37a39ec5-7fb3-4e92-affc-a44ed4f16ee8</dataFileGUID>
-   <dataSourceUrl>/Users/lakshmi.kandikuppa/Documents/Katalon/OBEAutomationTesting-develop/00.Test Cases Data Files/Data - OBE GJCAN-Book res Junk removal.xls</dataSourceUrl>
+   <dataSourceUrl>/Users/lakshmi.kandikuppa/git/FSMAutomation/00.Test Cases Data Files/Data - OBE GJCAN-Book res Junk removal.xls</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>
