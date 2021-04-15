@@ -16,7 +16,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import Common as Common
 
-WebUI.openBrowser(url)
+WebUI.openBrowser('https://fsmuat-ssh-obe.pantheonsite.io/')
 
 WebUI.maximizeWindow()
 

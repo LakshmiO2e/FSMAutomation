@@ -6,11 +6,11 @@
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
    <dataFileGUID>0d9741d6-4b21-4770-8a35-a5d1b1413986</dataFileGUID>
-   <dataSourceUrl>C:\Users\Neeraja\Documents\O2E\Katalon\OBEAutomationTesting-develop\00.Test Cases Data Files\Data - Web W1Day.xlsx</dataSourceUrl>
+   <dataSourceUrl>/Users/lakshmi.kandikuppa/git/FSMAutomation/00.Test Cases Data Files/Data - Web ShackShine.xls</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
-   <sheetName>W1Day01_02</sheetName>
+   <sheetName></sheetName>
    <usingGlobalDBSetting>false</usingGlobalDBSetting>
 </DataFileEntity>
