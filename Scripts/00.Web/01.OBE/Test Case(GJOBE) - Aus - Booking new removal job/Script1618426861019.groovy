@@ -24,11 +24,11 @@ WebUI.maximizeWindow()
 //WebUI.delay(10)
 WebUI.comment('##### - Step 1')
 
-WebUI.waitForElementPresent(findTestObject('01.GJOBE/02.Create new Appointment/Step 1 - Screen/inptZipCode'), 30)
+WebUI.waitForElementPresent(findTestObject('01.GJOBE/02.Create new Appointment/Step 1 - Screen/inputZipCode-Aus'), 30)
 
-WebUI.waitForElementClickable(findTestObject('01.GJOBE/02.Create new Appointment/Step 1 - Screen/inptZipCode'), 30)
+WebUI.waitForElementClickable(findTestObject('01.GJOBE/02.Create new Appointment/Step 1 - Screen/inputZipCode-Aus'), 30)
 
-WebUI.setText(findTestObject('01.GJOBE/02.Create new Appointment/Step 1 - Screen/inptZipCode'), zipCode)
+WebUI.setText(findTestObject('01.GJOBE/02.Create new Appointment/Step 1 - Screen/inputZipCode-Aus'), zipCode)
 
 WebUI.click(findTestObject('01.GJOBE/02.Create new Appointment/Step 1 - Screen/btnGO'))
 
@@ -62,9 +62,9 @@ WebUI.setText(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen
 
 WebUI.setText(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen/inptEmail'), email)
 
-WebUI.setText(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen/inptNumberPrefix'), phonePrefix)
+WebUI.setText(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen/inptNumberPrefix - Aus'), phonePrefix)
 
-WebUI.setText(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen/inptPhoneNr'), phoneNr)
+WebUI.setText(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen/inptPhoneNr - Aus'), phoneNr)
 
 //WebUI.click(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen/chkboxPromoCode'))
 //WebUI.setText(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen/inptPromocode'), 'QAEARLPERCDISCGJ')
