@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Test Case(SSH) - Book residential Estimate job</name>
+   <name>Test Case(SSH) - Book residential Estimate job - Copy</name>
    <tag></tag>
    <comment>##### - Step 1 - Get an Estimate and Schedule a service
 ##### - Step 2 - Choose Your Service
@@ -9,95 +9,88 @@
 ##### - Step 4 - Your contact details
 ##### - Step 5 - Review and Confirm booking
 ##### - Step 6 - Thank you Page</comment>
-   <testCaseGuid>5183ba1a-f84e-4bc1-a50c-3c7450917cdf</testCaseGuid>
+   <testCaseGuid>30bb8e5b-24f8-4fd1-8e84-36ccf09fe168</testCaseGuid>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>8dd64823-3db1-4c76-87fc-db67a632253b</id>
-      <masked>false</masked>
-      <name>url</name>
-   </variable>
-   <variable>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>76f3d399-2367-4b58-8339-34451de74528</id>
+      <id>063e193f-26a8-4c55-aeed-473413e0628e</id>
       <masked>false</masked>
       <name>inptZipCode</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>3b7844de-0211-465e-89ee-39e875126c32</id>
+      <id>d502e8f3-4c50-4253-9509-f0175c1dd9fb</id>
       <masked>false</masked>
       <name>slctShackSize</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>7f877227-dc9d-43a7-ab3d-b9bd65b6e762</id>
+      <id>653a04d3-311e-48ac-919e-9303bf3c7d6a</id>
       <masked>false</masked>
       <name>slctIndustry</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>e1fcfd5f-e597-40eb-8570-25ec0a725a0e</id>
+      <id>73b92af7-aa49-402b-adda-068399528acb</id>
       <masked>false</masked>
       <name>slctServiceCategory</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>97b29ca7-6224-4bf0-b0a5-81628270859e</id>
+      <id>25496424-453b-4faf-8ec9-3d7e1f7cb948</id>
       <masked>false</masked>
       <name>slectServiceName</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>2963766b-6e0f-42c6-a361-bfbac7710c36</id>
+      <id>4566881c-567c-4285-a182-59aaebb2ea28</id>
       <masked>false</masked>
       <name>inptOptionalNumber</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>28d3e4f6-f714-4ffd-8009-29630f4f4b4e</id>
+      <id>a1c87bb2-071a-4e86-a425-d74d5191116a</id>
       <masked>false</masked>
       <name>inptFullAddress</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>520e6db5-2aba-475e-84e1-7ac618a0f8b8</id>
+      <id>1869d7ef-76ca-422f-a8ee-bb4430cbb266</id>
       <masked>false</masked>
       <name>inptFirstName</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>137f79ee-d964-45fc-b796-250057319a6a</id>
+      <id>f52ce7d1-22d1-4bc1-8392-a51b9dba7ec7</id>
       <masked>false</masked>
       <name>inptLastName</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>2c3a0392-1fab-48fd-9f2b-434489d3d2f1</id>
+      <id>81e0c382-4447-4cc8-b80e-adc478f93f4e</id>
       <masked>false</masked>
       <name>inptPhone</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>53340423-4e0a-4964-a692-f83aff4a486d</id>
+      <id>89a8a491-cbac-4136-8e3a-f4cf9f58e13f</id>
       <masked>false</masked>
       <name>inptEmail</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>ad3dcedd-ad9e-4c72-a1f6-7d5abf146f28</id>
+      <id>9256a3ec-40ed-49e2-ad7f-64f58f68b5d2</id>
       <masked>false</masked>
       <name>verifyPageConfirmation</name>
    </variable>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test Case(SSH) - Book residential Estimate job PROD</name>
+   <tag></tag>
+   <comment>##### - Step 1 - Get an Estimate and Schedule a service
+##### - Step 2 - Choose Your Service
+##### - Step 3 - Book an onsite estimate
+##### - Step 4 - Your contact details
+##### - Step 5 - Review and Confirm booking
+##### - Step 6 - Thank you Page</comment>
+   <testCaseGuid>7b438b7e-ba77-4f6a-98cb-62db510555c4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>01ddc392-5d75-4448-8bee-3b5e9810f910</id>
+      <masked>false</masked>
+      <name>inptZipCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>577833ca-797a-4ec3-95f6-39afd80899fd</id>
+      <masked>false</masked>
+      <name>slctShackSize</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b6cf424e-f375-46ad-9ad7-83f22b358021</id>
+      <masked>false</masked>
+      <name>slctIndustry</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>be0a5309-95db-42eb-a497-e8be45f6fecc</id>
+      <masked>false</masked>
+      <name>slctServiceCategory</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6dffea0b-f502-465c-baec-8ad5c6b01e1d</id>
+      <masked>false</masked>
+      <name>slectServiceName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e5888958-7e02-4dd6-aa04-08363eb67f08</id>
+      <masked>false</masked>
+      <name>inptOptionalNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c81c7fb6-1fcc-44bb-a513-e92d7af29e09</id>
+      <masked>false</masked>
+      <name>inptFullAddress</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>144b0df4-dc19-4fc9-a5c4-13988175138a</id>
+      <masked>false</masked>
+      <name>inptFirstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4aeb6135-7ebc-4939-90a3-b966314157ff</id>
+      <masked>false</masked>
+      <name>inptLastName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3b47c541-8820-47fd-8bf6-0a351426b4d0</id>
+      <masked>false</masked>
+      <name>inptPhone</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e6a55a89-3050-497a-8cf2-33c204872980</id>
+      <masked>false</masked>
+      <name>inptEmail</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c203f084-a88f-4df5-898d-b918a22d15c5</id>
+      <masked>false</masked>
+      <name>verifyPageConfirmation</name>
+   </variable>
+</TestCaseEntity>
