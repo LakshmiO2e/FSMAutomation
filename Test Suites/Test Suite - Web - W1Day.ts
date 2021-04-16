@@ -12,13 +12,13 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>6ad6bdea-4f95-415f-a240-ddd4e4241269</testSuiteGuid>
    <testCaseLink>
-      <guid>c45e6ff7-40bc-4047-b8af-64f0f1321a42</guid>
+      <guid>ebbb3916-c4a7-4874-81c1-a7d2cc3ee1aa</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/00.Web/01.OBE/Test Case(W1Day) - Book a residential-comercial job</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>a6828024-2064-409e-aa59-4f7899e1ee66</id>
+         <id>9af87502-2b27-4d5d-8358-636f65a131e9</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
@@ -27,69 +27,798 @@
       </testDataLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
-         <type>SCRIPT_VARIABLE</type>
-         <value>null</value>
+         <type>DEFAULT</type>
+         <value></value>
          <variableId>08f884b6-9ad7-4867-813d-a261fd10f5b6</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>a6828024-2064-409e-aa59-4f7899e1ee66</testDataLinkId>
+         <testDataLinkId>9af87502-2b27-4d5d-8358-636f65a131e9</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>inptZipCode</value>
          <variableId>4e412d5b-b5d2-4e07-909d-820692dae4b2</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>a6828024-2064-409e-aa59-4f7899e1ee66</testDataLinkId>
+         <testDataLinkId>9af87502-2b27-4d5d-8358-636f65a131e9</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>slctPropertyType</value>
          <variableId>5d457edd-ecda-4962-8a4e-d7d7c4a45783</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>a6828024-2064-409e-aa59-4f7899e1ee66</testDataLinkId>
+         <testDataLinkId>9af87502-2b27-4d5d-8358-636f65a131e9</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>slctWhatToPaint</value>
          <variableId>819a3f96-2261-4c30-aaaa-0ef009e7c429</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>a6828024-2064-409e-aa59-4f7899e1ee66</testDataLinkId>
+         <testDataLinkId>9af87502-2b27-4d5d-8358-636f65a131e9</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>slctConsultationPrefer</value>
          <variableId>e2617e21-ca17-48de-8f10-d896417051bd</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>a6828024-2064-409e-aa59-4f7899e1ee66</testDataLinkId>
+         <testDataLinkId>9af87502-2b27-4d5d-8358-636f65a131e9</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>inptFirstName</value>
          <variableId>2cdaed5c-8de1-44aa-85cb-674a58a853c6</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>a6828024-2064-409e-aa59-4f7899e1ee66</testDataLinkId>
+         <testDataLinkId>9af87502-2b27-4d5d-8358-636f65a131e9</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>inptLastName</value>
          <variableId>6a681c4c-68a7-4e29-943f-df469b9d013b</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>a6828024-2064-409e-aa59-4f7899e1ee66</testDataLinkId>
+         <testDataLinkId>9af87502-2b27-4d5d-8358-636f65a131e9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptPhone</value>
+         <variableId>608ab9ec-71be-4653-8f57-b28634d8e69c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9af87502-2b27-4d5d-8358-636f65a131e9</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>inptEmail</value>
          <variableId>92a1cc81-e85f-4494-bc2b-4d39dcd2510d</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>a6828024-2064-409e-aa59-4f7899e1ee66</testDataLinkId>
+         <testDataLinkId>9af87502-2b27-4d5d-8358-636f65a131e9</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>inptFullAddress</value>
          <variableId>328fbb6a-7020-47ea-bf44-70da11507bac</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>a6828024-2064-409e-aa59-4f7899e1ee66</testDataLinkId>
+         <testDataLinkId>9af87502-2b27-4d5d-8358-636f65a131e9</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>verifyPageConfirmation</value>
          <variableId>ab81d67f-b09c-45c2-83d1-2f9bf6d8318c</variableId>
       </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6c0ed2ce-2ec8-4562-872a-145d2d3e6574</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/00.Web/01.OBE/Test Case(W1Day) - Book a residential-comercial job</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>c7dcfdf8-d89f-4dde-898b-1b7deb5ddde4</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data - WEB/02.W1Day/01.W1Day01_02</testDataId>
+      </testDataLink>
       <variableLink>
-         <testDataLinkId>a6828024-2064-409e-aa59-4f7899e1ee66</testDataLinkId>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>08f884b6-9ad7-4867-813d-a261fd10f5b6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c7dcfdf8-d89f-4dde-898b-1b7deb5ddde4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptZipCode</value>
+         <variableId>4e412d5b-b5d2-4e07-909d-820692dae4b2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c7dcfdf8-d89f-4dde-898b-1b7deb5ddde4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slctPropertyType</value>
+         <variableId>5d457edd-ecda-4962-8a4e-d7d7c4a45783</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c7dcfdf8-d89f-4dde-898b-1b7deb5ddde4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slctWhatToPaint</value>
+         <variableId>819a3f96-2261-4c30-aaaa-0ef009e7c429</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c7dcfdf8-d89f-4dde-898b-1b7deb5ddde4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slctConsultationPrefer</value>
+         <variableId>e2617e21-ca17-48de-8f10-d896417051bd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c7dcfdf8-d89f-4dde-898b-1b7deb5ddde4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptFirstName</value>
+         <variableId>2cdaed5c-8de1-44aa-85cb-674a58a853c6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c7dcfdf8-d89f-4dde-898b-1b7deb5ddde4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptLastName</value>
+         <variableId>6a681c4c-68a7-4e29-943f-df469b9d013b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c7dcfdf8-d89f-4dde-898b-1b7deb5ddde4</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>inptPhone</value>
          <variableId>608ab9ec-71be-4653-8f57-b28634d8e69c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c7dcfdf8-d89f-4dde-898b-1b7deb5ddde4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptEmail</value>
+         <variableId>92a1cc81-e85f-4494-bc2b-4d39dcd2510d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c7dcfdf8-d89f-4dde-898b-1b7deb5ddde4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptFullAddress</value>
+         <variableId>328fbb6a-7020-47ea-bf44-70da11507bac</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>c7dcfdf8-d89f-4dde-898b-1b7deb5ddde4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>verifyPageConfirmation</value>
+         <variableId>ab81d67f-b09c-45c2-83d1-2f9bf6d8318c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0721e9c3-db25-4b61-9281-f3e30de0adec</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/00.Web/01.OBE/Test Case(W1Day) - Book a residential-comercial job</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>905cfa35-a391-4def-927a-4c92c45273e3</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data - WEB/02.W1Day/01.W1Day01_02</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>08f884b6-9ad7-4867-813d-a261fd10f5b6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>905cfa35-a391-4def-927a-4c92c45273e3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptZipCode</value>
+         <variableId>4e412d5b-b5d2-4e07-909d-820692dae4b2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>905cfa35-a391-4def-927a-4c92c45273e3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slctPropertyType</value>
+         <variableId>5d457edd-ecda-4962-8a4e-d7d7c4a45783</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>905cfa35-a391-4def-927a-4c92c45273e3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slctWhatToPaint</value>
+         <variableId>819a3f96-2261-4c30-aaaa-0ef009e7c429</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>905cfa35-a391-4def-927a-4c92c45273e3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slctConsultationPrefer</value>
+         <variableId>e2617e21-ca17-48de-8f10-d896417051bd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>905cfa35-a391-4def-927a-4c92c45273e3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptFirstName</value>
+         <variableId>2cdaed5c-8de1-44aa-85cb-674a58a853c6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>905cfa35-a391-4def-927a-4c92c45273e3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptLastName</value>
+         <variableId>6a681c4c-68a7-4e29-943f-df469b9d013b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>905cfa35-a391-4def-927a-4c92c45273e3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptPhone</value>
+         <variableId>608ab9ec-71be-4653-8f57-b28634d8e69c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>905cfa35-a391-4def-927a-4c92c45273e3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptEmail</value>
+         <variableId>92a1cc81-e85f-4494-bc2b-4d39dcd2510d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>905cfa35-a391-4def-927a-4c92c45273e3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptFullAddress</value>
+         <variableId>328fbb6a-7020-47ea-bf44-70da11507bac</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>905cfa35-a391-4def-927a-4c92c45273e3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>verifyPageConfirmation</value>
+         <variableId>ab81d67f-b09c-45c2-83d1-2f9bf6d8318c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>511f58c9-1319-4cc5-a905-dedfd274a57e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/00.Web/01.OBE/Test Case(W1Day) - Book a residential-comercial job</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>a3a7a204-0c96-486b-acd4-3ec199743ecb</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data - WEB/02.W1Day/01.W1Day01_02</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>08f884b6-9ad7-4867-813d-a261fd10f5b6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a3a7a204-0c96-486b-acd4-3ec199743ecb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptZipCode</value>
+         <variableId>4e412d5b-b5d2-4e07-909d-820692dae4b2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a3a7a204-0c96-486b-acd4-3ec199743ecb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slctPropertyType</value>
+         <variableId>5d457edd-ecda-4962-8a4e-d7d7c4a45783</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a3a7a204-0c96-486b-acd4-3ec199743ecb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slctWhatToPaint</value>
+         <variableId>819a3f96-2261-4c30-aaaa-0ef009e7c429</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a3a7a204-0c96-486b-acd4-3ec199743ecb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slctConsultationPrefer</value>
+         <variableId>e2617e21-ca17-48de-8f10-d896417051bd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a3a7a204-0c96-486b-acd4-3ec199743ecb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptFirstName</value>
+         <variableId>2cdaed5c-8de1-44aa-85cb-674a58a853c6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a3a7a204-0c96-486b-acd4-3ec199743ecb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptLastName</value>
+         <variableId>6a681c4c-68a7-4e29-943f-df469b9d013b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a3a7a204-0c96-486b-acd4-3ec199743ecb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptPhone</value>
+         <variableId>608ab9ec-71be-4653-8f57-b28634d8e69c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a3a7a204-0c96-486b-acd4-3ec199743ecb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptEmail</value>
+         <variableId>92a1cc81-e85f-4494-bc2b-4d39dcd2510d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a3a7a204-0c96-486b-acd4-3ec199743ecb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptFullAddress</value>
+         <variableId>328fbb6a-7020-47ea-bf44-70da11507bac</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>a3a7a204-0c96-486b-acd4-3ec199743ecb</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>verifyPageConfirmation</value>
+         <variableId>ab81d67f-b09c-45c2-83d1-2f9bf6d8318c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a62d7709-e9e6-4485-ab27-54d42fe41ffd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/00.Web/01.OBE/Test Case(W1Day) - Book a residential-comercial job</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>8cf4b381-6db3-4f21-af5c-a477752618b5</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data - WEB/02.W1Day/01.W1Day01_02</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>08f884b6-9ad7-4867-813d-a261fd10f5b6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8cf4b381-6db3-4f21-af5c-a477752618b5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptZipCode</value>
+         <variableId>4e412d5b-b5d2-4e07-909d-820692dae4b2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8cf4b381-6db3-4f21-af5c-a477752618b5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slctPropertyType</value>
+         <variableId>5d457edd-ecda-4962-8a4e-d7d7c4a45783</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8cf4b381-6db3-4f21-af5c-a477752618b5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slctWhatToPaint</value>
+         <variableId>819a3f96-2261-4c30-aaaa-0ef009e7c429</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8cf4b381-6db3-4f21-af5c-a477752618b5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slctConsultationPrefer</value>
+         <variableId>e2617e21-ca17-48de-8f10-d896417051bd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8cf4b381-6db3-4f21-af5c-a477752618b5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptFirstName</value>
+         <variableId>2cdaed5c-8de1-44aa-85cb-674a58a853c6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8cf4b381-6db3-4f21-af5c-a477752618b5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptLastName</value>
+         <variableId>6a681c4c-68a7-4e29-943f-df469b9d013b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8cf4b381-6db3-4f21-af5c-a477752618b5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptPhone</value>
+         <variableId>608ab9ec-71be-4653-8f57-b28634d8e69c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8cf4b381-6db3-4f21-af5c-a477752618b5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptEmail</value>
+         <variableId>92a1cc81-e85f-4494-bc2b-4d39dcd2510d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8cf4b381-6db3-4f21-af5c-a477752618b5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptFullAddress</value>
+         <variableId>328fbb6a-7020-47ea-bf44-70da11507bac</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>8cf4b381-6db3-4f21-af5c-a477752618b5</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>verifyPageConfirmation</value>
+         <variableId>ab81d67f-b09c-45c2-83d1-2f9bf6d8318c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8b3c9086-773b-4c42-b3fb-c74d6c182af0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/00.Web/01.OBE/Test Case(W1Day) - Book a residential-comercial job</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>06de29c9-68de-4398-91c0-d8f51fd632ad</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data - WEB/02.W1Day/01.W1Day01_02</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>08f884b6-9ad7-4867-813d-a261fd10f5b6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>06de29c9-68de-4398-91c0-d8f51fd632ad</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptZipCode</value>
+         <variableId>4e412d5b-b5d2-4e07-909d-820692dae4b2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>06de29c9-68de-4398-91c0-d8f51fd632ad</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slctPropertyType</value>
+         <variableId>5d457edd-ecda-4962-8a4e-d7d7c4a45783</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>06de29c9-68de-4398-91c0-d8f51fd632ad</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slctWhatToPaint</value>
+         <variableId>819a3f96-2261-4c30-aaaa-0ef009e7c429</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>06de29c9-68de-4398-91c0-d8f51fd632ad</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slctConsultationPrefer</value>
+         <variableId>e2617e21-ca17-48de-8f10-d896417051bd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>06de29c9-68de-4398-91c0-d8f51fd632ad</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptFirstName</value>
+         <variableId>2cdaed5c-8de1-44aa-85cb-674a58a853c6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>06de29c9-68de-4398-91c0-d8f51fd632ad</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptLastName</value>
+         <variableId>6a681c4c-68a7-4e29-943f-df469b9d013b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>06de29c9-68de-4398-91c0-d8f51fd632ad</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptPhone</value>
+         <variableId>608ab9ec-71be-4653-8f57-b28634d8e69c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>06de29c9-68de-4398-91c0-d8f51fd632ad</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptEmail</value>
+         <variableId>92a1cc81-e85f-4494-bc2b-4d39dcd2510d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>06de29c9-68de-4398-91c0-d8f51fd632ad</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptFullAddress</value>
+         <variableId>328fbb6a-7020-47ea-bf44-70da11507bac</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>06de29c9-68de-4398-91c0-d8f51fd632ad</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>verifyPageConfirmation</value>
+         <variableId>ab81d67f-b09c-45c2-83d1-2f9bf6d8318c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>66c02df1-6318-4737-a75d-3e22632d73e6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/00.Web/01.OBE/Test Case(W1Day) - Book a residential-comercial job</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>16a2d7d3-1a01-4df6-b717-ef129d3940a9</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data - WEB/02.W1Day/01.W1Day01_02</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>08f884b6-9ad7-4867-813d-a261fd10f5b6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>16a2d7d3-1a01-4df6-b717-ef129d3940a9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptZipCode</value>
+         <variableId>4e412d5b-b5d2-4e07-909d-820692dae4b2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>16a2d7d3-1a01-4df6-b717-ef129d3940a9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slctPropertyType</value>
+         <variableId>5d457edd-ecda-4962-8a4e-d7d7c4a45783</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>16a2d7d3-1a01-4df6-b717-ef129d3940a9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slctWhatToPaint</value>
+         <variableId>819a3f96-2261-4c30-aaaa-0ef009e7c429</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>16a2d7d3-1a01-4df6-b717-ef129d3940a9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slctConsultationPrefer</value>
+         <variableId>e2617e21-ca17-48de-8f10-d896417051bd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>16a2d7d3-1a01-4df6-b717-ef129d3940a9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptFirstName</value>
+         <variableId>2cdaed5c-8de1-44aa-85cb-674a58a853c6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>16a2d7d3-1a01-4df6-b717-ef129d3940a9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptLastName</value>
+         <variableId>6a681c4c-68a7-4e29-943f-df469b9d013b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>16a2d7d3-1a01-4df6-b717-ef129d3940a9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptPhone</value>
+         <variableId>608ab9ec-71be-4653-8f57-b28634d8e69c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>16a2d7d3-1a01-4df6-b717-ef129d3940a9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptEmail</value>
+         <variableId>92a1cc81-e85f-4494-bc2b-4d39dcd2510d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>16a2d7d3-1a01-4df6-b717-ef129d3940a9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptFullAddress</value>
+         <variableId>328fbb6a-7020-47ea-bf44-70da11507bac</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>16a2d7d3-1a01-4df6-b717-ef129d3940a9</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>verifyPageConfirmation</value>
+         <variableId>ab81d67f-b09c-45c2-83d1-2f9bf6d8318c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d697a07f-6c15-42fb-b8ed-75e4d56a0387</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/00.Web/01.OBE/Test Case(W1Day) - Book a residential-comercial job</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>b01039e0-a5f7-445f-a9ec-1b0e55fb7183</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data - WEB/02.W1Day/01.W1Day01_02</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>08f884b6-9ad7-4867-813d-a261fd10f5b6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b01039e0-a5f7-445f-a9ec-1b0e55fb7183</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptZipCode</value>
+         <variableId>4e412d5b-b5d2-4e07-909d-820692dae4b2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b01039e0-a5f7-445f-a9ec-1b0e55fb7183</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slctPropertyType</value>
+         <variableId>5d457edd-ecda-4962-8a4e-d7d7c4a45783</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b01039e0-a5f7-445f-a9ec-1b0e55fb7183</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slctWhatToPaint</value>
+         <variableId>819a3f96-2261-4c30-aaaa-0ef009e7c429</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b01039e0-a5f7-445f-a9ec-1b0e55fb7183</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slctConsultationPrefer</value>
+         <variableId>e2617e21-ca17-48de-8f10-d896417051bd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b01039e0-a5f7-445f-a9ec-1b0e55fb7183</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptFirstName</value>
+         <variableId>2cdaed5c-8de1-44aa-85cb-674a58a853c6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b01039e0-a5f7-445f-a9ec-1b0e55fb7183</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptLastName</value>
+         <variableId>6a681c4c-68a7-4e29-943f-df469b9d013b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b01039e0-a5f7-445f-a9ec-1b0e55fb7183</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptPhone</value>
+         <variableId>608ab9ec-71be-4653-8f57-b28634d8e69c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b01039e0-a5f7-445f-a9ec-1b0e55fb7183</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptEmail</value>
+         <variableId>92a1cc81-e85f-4494-bc2b-4d39dcd2510d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b01039e0-a5f7-445f-a9ec-1b0e55fb7183</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptFullAddress</value>
+         <variableId>328fbb6a-7020-47ea-bf44-70da11507bac</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>b01039e0-a5f7-445f-a9ec-1b0e55fb7183</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>verifyPageConfirmation</value>
+         <variableId>ab81d67f-b09c-45c2-83d1-2f9bf6d8318c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>0c7f7091-e529-47b2-87a2-486f83475c72</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/00.Web/01.OBE/Test Case(W1Day) - Book a residential-comercial job</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>0062ef0c-f582-4e7d-9812-45f8b6e9e1b7</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data - WEB/02.W1Day/01.W1Day01_02</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>08f884b6-9ad7-4867-813d-a261fd10f5b6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0062ef0c-f582-4e7d-9812-45f8b6e9e1b7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptZipCode</value>
+         <variableId>4e412d5b-b5d2-4e07-909d-820692dae4b2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0062ef0c-f582-4e7d-9812-45f8b6e9e1b7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slctPropertyType</value>
+         <variableId>5d457edd-ecda-4962-8a4e-d7d7c4a45783</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0062ef0c-f582-4e7d-9812-45f8b6e9e1b7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slctWhatToPaint</value>
+         <variableId>819a3f96-2261-4c30-aaaa-0ef009e7c429</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0062ef0c-f582-4e7d-9812-45f8b6e9e1b7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slctConsultationPrefer</value>
+         <variableId>e2617e21-ca17-48de-8f10-d896417051bd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0062ef0c-f582-4e7d-9812-45f8b6e9e1b7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptFirstName</value>
+         <variableId>2cdaed5c-8de1-44aa-85cb-674a58a853c6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0062ef0c-f582-4e7d-9812-45f8b6e9e1b7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptLastName</value>
+         <variableId>6a681c4c-68a7-4e29-943f-df469b9d013b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0062ef0c-f582-4e7d-9812-45f8b6e9e1b7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptPhone</value>
+         <variableId>608ab9ec-71be-4653-8f57-b28634d8e69c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0062ef0c-f582-4e7d-9812-45f8b6e9e1b7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptEmail</value>
+         <variableId>92a1cc81-e85f-4494-bc2b-4d39dcd2510d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0062ef0c-f582-4e7d-9812-45f8b6e9e1b7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptFullAddress</value>
+         <variableId>328fbb6a-7020-47ea-bf44-70da11507bac</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>0062ef0c-f582-4e7d-9812-45f8b6e9e1b7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>verifyPageConfirmation</value>
+         <variableId>ab81d67f-b09c-45c2-83d1-2f9bf6d8318c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f53a9ed9-3cd4-45b2-9421-7e37036b0f8b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/00.Web/01.OBE/Test Case(W1Day) - Book a residential-comercial job</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>7a16eebd-806b-4b31-b3ab-ee3d8eb4f71d</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data - WEB/02.W1Day/01.W1Day01_02</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>08f884b6-9ad7-4867-813d-a261fd10f5b6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7a16eebd-806b-4b31-b3ab-ee3d8eb4f71d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptZipCode</value>
+         <variableId>4e412d5b-b5d2-4e07-909d-820692dae4b2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7a16eebd-806b-4b31-b3ab-ee3d8eb4f71d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slctPropertyType</value>
+         <variableId>5d457edd-ecda-4962-8a4e-d7d7c4a45783</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7a16eebd-806b-4b31-b3ab-ee3d8eb4f71d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slctWhatToPaint</value>
+         <variableId>819a3f96-2261-4c30-aaaa-0ef009e7c429</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7a16eebd-806b-4b31-b3ab-ee3d8eb4f71d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>slctConsultationPrefer</value>
+         <variableId>e2617e21-ca17-48de-8f10-d896417051bd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7a16eebd-806b-4b31-b3ab-ee3d8eb4f71d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptFirstName</value>
+         <variableId>2cdaed5c-8de1-44aa-85cb-674a58a853c6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7a16eebd-806b-4b31-b3ab-ee3d8eb4f71d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptLastName</value>
+         <variableId>6a681c4c-68a7-4e29-943f-df469b9d013b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7a16eebd-806b-4b31-b3ab-ee3d8eb4f71d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptPhone</value>
+         <variableId>608ab9ec-71be-4653-8f57-b28634d8e69c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7a16eebd-806b-4b31-b3ab-ee3d8eb4f71d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptEmail</value>
+         <variableId>92a1cc81-e85f-4494-bc2b-4d39dcd2510d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7a16eebd-806b-4b31-b3ab-ee3d8eb4f71d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>inptFullAddress</value>
+         <variableId>328fbb6a-7020-47ea-bf44-70da11507bac</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7a16eebd-806b-4b31-b3ab-ee3d8eb4f71d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>verifyPageConfirmation</value>
+         <variableId>ab81d67f-b09c-45c2-83d1-2f9bf6d8318c</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>
