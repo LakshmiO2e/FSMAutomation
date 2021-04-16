@@ -15,7 +15,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 
-WebUI.openBrowser('https://fsm-w1d-obe.pantheonsite.io/onlinebooking')
+WebUI.openBrowser('https://request.wow1day.com/onlinebooking/')
 
 WebUI.maximizeWindow()
 
@@ -58,12 +58,5 @@ WebUI.click(findTestObject('02.ShackShine/btnContinue'))
 
 WebUI.comment('##### - Step 4 - Page Verification')
 
-WebUI.waitForElementClickable(findTestObject('02.ShackShine/btnContinue'), 20)
-
-if (Common.VerifyElementLabel(findTestObject('02.ShackShine/01.Estimate Details/04.Step 5 - Confirmation Page/lblConfirmationShackShine'), 
-    '', verifyPageConfirmation)) {
-    WebUI.comment('Booking is complete!')
-} else {
-    WebUI.comment('Some error occured when trying to book a appointment')
-}
+WebUI.closeBrowser()
 
