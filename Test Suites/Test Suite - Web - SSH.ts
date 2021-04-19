@@ -15,7 +15,7 @@
       <guid>3983034d-5f7d-40fe-8ff8-6f972e24099c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/00.Web/01.OBE/Test Case(SSH) - Book residential Estimate job</testCaseId>
+      <testCaseId>Test Cases/00.Web/01.OBE/Test Case(SSH) - Book residential Estimate job UAT2</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
          <id>7bc1f914-b072-4c2f-9ecf-746d13b1d318</id>
@@ -34,12 +34,6 @@
          </iterationEntity>
          <testDataId>Data Files/Data - WEB/01.SSH/01.SSH01_02</testDataId>
       </testDataLink>
-      <variableLink>
-         <testDataLinkId>7bc1f914-b072-4c2f-9ecf-746d13b1d318</testDataLinkId>
-         <type>DATA_COLUMN</type>
-         <value>url</value>
-         <variableId>8dd64823-3db1-4c76-87fc-db67a632253b</variableId>
-      </variableLink>
       <variableLink>
          <testDataLinkId>2c8aa18e-9914-4903-890b-572fb77c843e</testDataLinkId>
          <type>DATA_COLUMN</type>
