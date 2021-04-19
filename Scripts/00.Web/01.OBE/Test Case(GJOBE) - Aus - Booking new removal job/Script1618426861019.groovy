@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import Common as Common
 
-WebUI.openBrowser('https://test-gj-au-obe.pantheonsite.io/')
+WebUI.openBrowser('https://request.1800gotjunk.com.au/onlinebooking')
 
 WebUI.maximizeWindow()
 
@@ -36,12 +36,15 @@ WebUI.comment('##### - Step 2')
 
 WebUI.waitForElementNotVisible(findTestObject('01.GJOBE/00.CommonObjects/loadingSpinner'), 0)
 
+WebUI.click(findTestObject('01.GJOBE/02.Create new Appointment/Step 2 - Screen/00.CalendarObjects/TempObject-SaturdayDay'))
+
+WebUI.waitForElementNotVisible(findTestObject('01.GJOBE/02.Create new Appointment/Step 2 - Screen/00.CalendarObjects/icn_calendarLoading'), 
+    0)
+
 //WebUI.setText(findTestObject('01.GJOBE/02.Create new Appointment/Step 1 - Screen/txtDescription'), 'Test Automation Residential NA Junk removal ')
 CustomKeywords.'GJOBE.SelectDayAndTime'()
 
 WebUI.click(findTestObject('00.Common Objects/btnNextPickUpAddress-Continue'))
-
-WebUI.waitForElementNotVisible(findTestObject('01.GJOBE/00.CommonObjects/loadingSpinner'), 0)
 
 WebUI.comment('##### - Step 3')
 
@@ -71,8 +74,6 @@ WebUI.setText(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen
 //WebUI.selectOptionByValue(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen/slctPhoneType'), phoneType, 
 //  false)
 WebUI.comment('##### - Step 4')
-
-WebUI.click(findTestObject('00.Common Objects/btnNextPickUpAddress-Continue'))
 
 WebUI.comment('##### - Validation')
 
