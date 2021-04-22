@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>TempObject-SaturdayDay</name>
+   <name>txtboxZipcodeResidentialLead</name>
    <tag></tag>
-   <elementGuidId>1259e4a4-db22-44f4-9da7-ed4ed67bee18</elementGuidId>
+   <elementGuidId>129f02a2-efa1-42e8-9e01-8c6b87faa0fe</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[contains(text(),'17')]</value>
+         <value>//input[@name='TXT_Zip_Code_Residential']</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//a[contains(text(),'20')]</value>
+         <value>//input[@name='TXT_Zip_Code_Residential']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//a[contains(text(),'20')]</value>
+      <value>//input[@name='TXT_Zip_Code_Residential']</value>
    </webElementProperties>
 </WebElementEntity>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-Create New ResedentialLead-SC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d8a3e603-18a4-4a0d-8d5b-543b3751f679</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>49ed60f3-2ea8-4672-8fbc-0ee9583f3afc</id>
+      <masked>false</masked>
+      <name>slctAccountType</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d6adbd2c-6988-43e9-8bfd-d0c1fe3a58fa</id>
+      <masked>false</masked>
+      <name>zipCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4d00c534-a9a8-46a2-a97e-532585313ac5</id>
+      <masked>false</masked>
+      <name>firstName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>59afac96-7c56-432d-b30a-4e28a05717bf</id>
+      <masked>false</masked>
+      <name>inptFullAddress</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>98f5bc16-aced-4a99-9283-a7838f6d3e43</id>
+      <masked>false</masked>
+      <name>inptPromoCode</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>97094ca6-1114-4660-9c2b-437258159413</id>
+      <masked>false</masked>
+      <name>slctWorkType</name>
+   </variable>
+</TestCaseEntity>

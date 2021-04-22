@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>TempObject-SaturdayDay</name>
+   <name>btnCreateLead</name>
    <tag></tag>
-   <elementGuidId>1259e4a4-db22-44f4-9da7-ed4ed67bee18</elementGuidId>
+   <elementGuidId>fa362f5f-2654-42b3-91f5-9863b0e7ed01</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//a[contains(text(),'17')]</value>
-      </entry>
-      <entry>
          <key>BASIC</key>
-         <value>//a[contains(text(),'20')]</value>
+         <value>//span[contains(text(),'Create Lead')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -21,6 +17,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//a[contains(text(),'20')]</value>
+      <value>//span[contains(text(),'Create Lead')]</value>
    </webElementProperties>
 </WebElementEntity>

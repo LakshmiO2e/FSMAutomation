@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import Common as Common
 
-WebUI.openBrowser('https://request.1800gotjunk.com.au/onlinebooking')
+WebUI.openBrowser('https://fsmuat-gj-au-obe.pantheonsite.io/')
 
 WebUI.maximizeWindow()
 

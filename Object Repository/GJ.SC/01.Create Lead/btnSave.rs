@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>TempObject-SaturdayDay</name>
+   <name>btnSave</name>
    <tag></tag>
-   <elementGuidId>1259e4a4-db22-44f4-9da7-ed4ed67bee18</elementGuidId>
+   <elementGuidId>1f92bcca-cd4a-42fd-a4ef-64a196158dde</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[contains(text(),'17')]</value>
+         <value>//button[@name='SaveEdit']</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//a[contains(text(),'20')]</value>
+         <value>//button[@name='SaveEdit']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -21,6 +21,6 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//a[contains(text(),'20')]</value>
+      <value>//button[@name='SaveEdit']</value>
    </webElementProperties>
 </WebElementEntity>

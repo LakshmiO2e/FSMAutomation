@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>TempObject-SaturdayDay</name>
+   <name>btnbookappointment</name>
    <tag></tag>
-   <elementGuidId>1259e4a4-db22-44f4-9da7-ed4ed67bee18</elementGuidId>
+   <elementGuidId>3a615441-82b8-47a7-a467-c09ea740489c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[contains(text(),'17')]</value>
+         <value>//button[@name='Global.FSL__Book_Appointment']</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//a[contains(text(),'20')]</value>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//a[contains(text(),'20')]</value>
+      <value>//button[@name='Global.FSL__Book_Appointment']</value>
    </webElementProperties>
 </WebElementEntity>

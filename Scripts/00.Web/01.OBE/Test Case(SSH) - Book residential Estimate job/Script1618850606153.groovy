@@ -15,20 +15,5 @@ import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
-
-WebUI.comment('Open the Browser with the URL')
-
-WebUI.openBrowser(url)
-
-WebUI.maximizeWindow()
-
-WebUI.comment('Insert User Credentials')
-
-WebUI.setText(findTestObject('00.Common Objects/01.Login Page/inptUsername'), inptUser)
-
-WebUI.setText(findTestObject('00.Common Objects/01.Login Page/inptPassword'), inptPassword)
-
-WebUI.click(findTestObject('00.Common Objects/01.Login Page/btnLogIn'))
-
-WebUI.delay(20)
+import org.openqa.selenium.Keys as Keys
 

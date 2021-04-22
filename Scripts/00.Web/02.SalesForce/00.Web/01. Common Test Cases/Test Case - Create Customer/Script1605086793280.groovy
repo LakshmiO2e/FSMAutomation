@@ -39,8 +39,7 @@ if (slctAccountType == 'Business') {
 }
 
 //WebUI.selectOptionByLabel(findTestObject('01.GJOBE/01.Flows/00.Create Customer/01.Step 2 - Account Details/slctIndustry'), 
-  //  slctIndustry, false)
-
+//  slctIndustry, false)
 WebUI.setText(findTestObject('01.GJOBE/01.Flows/00.Create Customer/01.Step 2 - Account Details/01.inptFirstName'), inptFirstName)
 
 WebUI.setText(findTestObject('01.GJOBE/01.Flows/00.Create Customer/01.Step 2 - Account Details/02.inptLastName'), inptLastName)

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>TempObject-SaturdayDay</name>
+   <name>inputEnterPromoCode</name>
    <tag></tag>
-   <elementGuidId>1259e4a4-db22-44f4-9da7-ed4ed67bee18</elementGuidId>
+   <elementGuidId>0cd7088c-fa6d-4b9e-8d16-47a0270de197</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//a[contains(text(),'17')]</value>
+         <value>//input[@title='Search promocode-franchises...']</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//a[contains(text(),'20')]</value>
+         <value>//*[@title = 'Search promocode-franchises...']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -19,8 +19,8 @@
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath</name>
+      <name>title</name>
       <type>Main</type>
-      <value>//a[contains(text(),'20')]</value>
+      <value>Search promocode-franchises...</value>
    </webElementProperties>
 </WebElementEntity>
