@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>btnSave</name>
+   <name>btnEditName</name>
    <tag></tag>
-   <elementGuidId>1f92bcca-cd4a-42fd-a4ef-64a196158dde</elementGuidId>
+   <elementGuidId>76545a26-bab1-4614-9696-8141bce0dfc8</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@name=&quot;SaveEdit&quot;]</value>
+         <value>//button[@title='Edit Name']</value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//button[@name='SaveEdit']</value>
+         <value>//*[@title = 'Edit Name']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath</name>
+      <name>title</name>
       <type>Main</type>
-      <value>//button[@name='SaveEdit']</value>
+      <value>Edit Name</value>
    </webElementProperties>
 </WebElementEntity>

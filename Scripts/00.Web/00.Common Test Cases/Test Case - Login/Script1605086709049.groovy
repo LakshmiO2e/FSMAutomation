@@ -30,5 +30,5 @@ WebUI.setText(findTestObject('00.Common Objects/01.Login Page/inptPassword'), in
 
 WebUI.click(findTestObject('00.Common Objects/01.Login Page/btnLogIn'))
 
-WebUI.delay(20)
+WebUI.delay(40)
 

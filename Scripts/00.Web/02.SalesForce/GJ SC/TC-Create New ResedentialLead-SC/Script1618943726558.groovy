@@ -25,19 +25,31 @@ WebUI.click(findTestObject('00.Common Objects/btnNext'))
 
 WebUI.setText(findTestObject('GJ.SC/01.Create Lead/txtboxZipcodeResidentialLead'), zipCode)
 
-WebUI.clearText(findTestObject('GJ.SC/01.Create Lead/txtboxFirstname-Residential'))
-
-WebUI.setText(findTestObject('GJ.SC/01.Create Lead/txtboxFirstname-Residential'), firstName)
-
+//WebUI.clearText(findTestObject('GJ.SC/01.Create Lead/txtboxFirstname-Residential'))
+//WebUI.setText(findTestObject('GJ.SC/01.Create Lead/txtboxFirstname-Residential'), firstName)
 WebUI.click(findTestObject('00.Common Objects/btnNext'))
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('GJ.SC/01.Create Lead/btnMinimizeCreateLead'))
 
+WebUI.delay(5)
+
+WebUI.click(findTestObject('GJ.SC/01.Create Lead/btnEditLead'))
+
+WebUI.setText(findTestObject('GJ.SC/01.Create Lead/txtLastName'), 'TestAuto_LastName')
+
+WebUI.setText(findTestObject('GJ.SC/01.Create Lead/txtboxMobilePhone'), '1111111111')
+
+WebUI.scrollToPosition(4, 4)
+
+WebUI.click(findTestObject('GJ.SC/01.Create Lead/txtStreetname'))
+
 WebUI.click(findTestObject('GJ.SC/01.Create Lead/btnEditAddressOnLead'))
 
-CustomKeywords.'Common.AddressAutoComplete'(findTestObject('GJ.SC/01.Create Lead/inputAddress-LeadSC'), inptFullAddress)
-
 WebUI.click(findTestObject('GJ.SC/01.Create Lead/btnSave'))
+
+CustomKeywords.'Common.AddressAutoComplete'(findTestObject('GJ.SC/01.Create Lead/btnEditAddressOnLead'), inptFullAddress)
 
 WebUI.waitForElementVisible(findTestObject('GJ.SC/02.convertLead/btnConvertLead'), 10)
 
@@ -50,6 +62,8 @@ WebUI.scrollToElement(findTestObject('GJ.SC/03.ApplyPromoCode/programcodeheader'
 WebUI.click(findTestObject('GJ.SC/03.ApplyPromoCode/inputEnterPromoCode'), FailureHandling.CONTINUE_ON_FAILURE)
 
 CustomKeywords.'Common.AddressAutoComplete'(findTestObject('GJ.SC/03.ApplyPromoCode/inputEnterPromoCode'), inptPromoCode)
+
+WebUI.click(findTestObject('GJ.SC/01.Create Lead/btnSave'))
 
 WebUI.scrollToElement(findTestObject('GJ.SC/04.BookAppointment/btnbookappointment'), 0)
 

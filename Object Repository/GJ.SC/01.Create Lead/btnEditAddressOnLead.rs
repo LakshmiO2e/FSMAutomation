@@ -7,14 +7,14 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@title='Edit Address']//span[@class='inline-edit-trigger-icon slds-button__icon slds-button__icon_hint']</value>
+         <value>(//input[@class='slds-input slds-combobox__input'])[5]</value>
       </entry>
       <entry>
          <key>BASIC</key>
          <value>//button[@title='Edit Address']//span[@class='inline-edit-trigger-icon slds-button__icon slds-button__icon_hint']</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>true</isSelected>
