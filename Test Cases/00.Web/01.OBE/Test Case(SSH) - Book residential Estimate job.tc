@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Test Case(SSH) - Book residential Estimate job UAT2</name>
+   <name>Test Case(SSH) - Book residential Estimate job</name>
    <tag></tag>
    <comment>##### - Step 1 - Get an Estimate and Schedule a service
 ##### - Step 2 - Choose Your Service
@@ -10,6 +10,13 @@
 ##### - Step 5 - Review and Confirm booking
 ##### - Step 6 - Thank you Page</comment>
    <testCaseGuid>5183ba1a-f84e-4bc1-a50c-3c7450917cdf</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>3b9725c6-64dd-4a71-a4fd-b101c9b84cb4</id>
+      <masked>false</masked>
+      <name>url</name>
+   </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>

@@ -55,7 +55,7 @@ public class CommonKeys extends BasePage {
 				WebElement elementToSelect = findWebElement("//div[@class='pac-item']/span[@class='pac-item-query']")
 				elementToSelect.click()
 			}
-			try{
+			/*try{
 				WebUI.setText(object, fullAddress)
 				WebUI.delay(2)
 				WebElement elementToSelect = findWebElement("//div[@class='pac-item needsclick']")
@@ -66,9 +66,7 @@ public class CommonKeys extends BasePage {
 				WebUI.delay(2)
 				WebElement elementToSelect = findWebElement("//div[@class='primaryLabel slds-truncate slds-lookup__result-text' and @title='" +fullAddress+ "']")
 				elementToSelect.click()
-			}
-			
-			
+			}*/
 		}
 
 		WebUI.delay(2)

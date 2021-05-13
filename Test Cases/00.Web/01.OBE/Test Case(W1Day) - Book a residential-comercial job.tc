@@ -12,13 +12,6 @@
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>08f884b6-9ad7-4867-813d-a261fd10f5b6</id>
-      <masked>false</masked>
-      <name>url</name>
-   </variable>
-   <variable>
-      <defaultValue>''</defaultValue>
-      <description></description>
       <id>4e412d5b-b5d2-4e07-909d-820692dae4b2</id>
       <masked>false</masked>
       <name>inptZipCode</name>

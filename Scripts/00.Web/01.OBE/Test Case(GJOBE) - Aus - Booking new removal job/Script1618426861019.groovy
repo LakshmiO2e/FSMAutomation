@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import Common as Common
 
-WebUI.openBrowser('https://fsmuat-gj-au-obe.pantheonsite.io/')
+WebUI.openBrowser('https://fsm-gj-au-obe.pantheonsite.io/onlinebooking')
 
 WebUI.maximizeWindow()
 
@@ -91,7 +91,7 @@ if (Common.VerifyElementLabel(findTestObject('01.GJOBE/02.Create new Appointment
     WebUI.comment('Fail to confirm Job!')
 }
 
-WebUI.delay(5)
+WebUI.delay(2)
 
 WebUI.closeBrowser()
 

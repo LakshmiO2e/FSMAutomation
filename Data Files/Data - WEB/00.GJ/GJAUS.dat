@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>Data - IOS - SSH FP - Residential</name>
+   <name>GJAUS</name>
    <tag></tag>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>113deb7d-af68-470c-9823-7a4cabb8fee3</dataFileGUID>
-   <dataSourceUrl>/Users/lakshmi.kandikuppa/git/FSMAutomation/00.Test Cases Data Files/Data - Web ShackShine.xls</dataSourceUrl>
+   <dataFileGUID>a3d7c766-1ea7-43f5-b54d-0e1e8625feca</dataFileGUID>
+   <dataSourceUrl>/Users/lakshmi.kandikuppa/git/FSMAutomation/00.Test Cases Data Files/Data - OBE GJAUS-Book res Junk removal.xls</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>
    <secureUserAccount>false</secureUserAccount>
-   <sheetName>SSH01_02</sheetName>
+   <sheetName>Book Job OBE</sheetName>
    <usingGlobalDBSetting>false</usingGlobalDBSetting>
 </DataFileEntity>
