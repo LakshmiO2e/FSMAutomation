@@ -29,6 +29,54 @@ import internal.GlobalVariable
 
 public class CommonKeys extends BasePage {
 
+	public void addressAutocomplete_GJSC(TestObject object, String fullAddress){
+
+		String xpath = object.getProperties().get(0).getValue()
+
+		WebElement element = findWebElement(xpath)
+		StringUtils.logger(xpath)
+		StringUtils.logger(fullAddress)
+
+		try{
+			WebUI.setText(object, fullAddress)
+			WebUI.delay(2)
+			WebElement elementToSelect = findWebElement("//div[@class='slds-p-horizontal_x-small slds-p-vertical_xx-small' and text()='" +fullAddress+ "']")
+			elementToSelect.click()
+		}catch(Exception e){
+			/*try{
+			 WebUI.setText(object, fullAddress)
+			 WebUI.delay(2)
+			 WebElement elementToSelect = findWebElement("//div[@class='pac-item needsclick']")
+			 elementToSelect.click()
+			 }catch(NullPointerException ee){
+			 //Shack shine Version
+			 WebUI.setText(object, fullAddress)
+			 WebUI.delay(2)
+			 WebElement elementToSelect = findWebElement("//div[@class='pac-item']/span[@class='pac-item-query']")
+			 elementToSelect.click()
+			 }*/
+			/*try{
+			 WebUI.setText(object, fullAddress)
+			 WebUI.delay(2)
+			 WebElement elementToSelect = findWebElement("//div[@class='pac-item needsclick']")
+			 elementToSelect.click()
+			 }catch(NullPointerException ee){
+			 //GJ SC PromoCode Version
+			 WebUI.setText(object, fullAddress)
+			 WebUI.delay(2)
+			 WebElement elementToSelect = findWebElement("//div[@class='primaryLabel slds-truncate slds-lookup__result-text' and @title='" +fullAddress+ "']")
+			 elementToSelect.click()
+			 }*/
+		}
+
+		WebUI.delay(2)
+
+		/*
+		 robotPressKey(KeyEvent.VK_TAB)
+		 robotPressKey(KeyEvent.VK_TAB)
+		 robotPressKey(KeyEvent.VK_ENTER)*/
+	}
+
 	public void addressAutocomplete(TestObject object, String fullAddress){
 
 		String xpath = object.getProperties().get(0).getValue()
@@ -56,17 +104,17 @@ public class CommonKeys extends BasePage {
 				elementToSelect.click()
 			}
 			/*try{
-				WebUI.setText(object, fullAddress)
-				WebUI.delay(2)
-				WebElement elementToSelect = findWebElement("//div[@class='pac-item needsclick']")
-				elementToSelect.click()
-			}catch(NullPointerException ee){
-				//GJ SC PromoCode Version
-				WebUI.setText(object, fullAddress)
-				WebUI.delay(2)
-				WebElement elementToSelect = findWebElement("//div[@class='primaryLabel slds-truncate slds-lookup__result-text' and @title='" +fullAddress+ "']")
-				elementToSelect.click()
-			}*/
+			 WebUI.setText(object, fullAddress)
+			 WebUI.delay(2)
+			 WebElement elementToSelect = findWebElement("//div[@class='pac-item needsclick']")
+			 elementToSelect.click()
+			 }catch(NullPointerException ee){
+			 //GJ SC PromoCode Version
+			 WebUI.setText(object, fullAddress)
+			 WebUI.delay(2)
+			 WebElement elementToSelect = findWebElement("//div[@class='primaryLabel slds-truncate slds-lookup__result-text' and @title='" +fullAddress+ "']")
+			 elementToSelect.click()
+			 }*/
 		}
 
 		WebUI.delay(2)

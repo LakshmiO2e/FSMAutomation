@@ -41,15 +41,17 @@ WebUI.setText(findTestObject('GJ.SC/01.Create Lead/txtLastName'), 'TestAuto_Last
 
 WebUI.setText(findTestObject('GJ.SC/01.Create Lead/txtboxMobilePhone'), '1111111111')
 
-WebUI.scrollToPosition(4, 4)
+//WebUI.click(findTestObject('GJ.SC/01.Create Lead/btnSave'))
+//WebUI.click(findTestObject('GJ.SC/01.Create Lead/btnEditLead'))
+WebUI.delay(5)
 
-WebUI.click(findTestObject('GJ.SC/01.Create Lead/txtStreetname'))
+WebUI.setText(findTestObject('GJ.SC/01.Create Lead/lookupAddress'), inptFullAddress)
 
-WebUI.click(findTestObject('GJ.SC/01.Create Lead/btnEditAddressOnLead'))
+WebUI.sendKeys(findTestObject('GJ.SC/01.Create Lead/lookupAddress'), Keys.chord(Keys.ENTER))
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('GJ.SC/01.Create Lead/btnSave'))
-
-CustomKeywords.'Common.AddressAutoComplete'(findTestObject('GJ.SC/01.Create Lead/btnEditAddressOnLead'), inptFullAddress)
 
 WebUI.waitForElementVisible(findTestObject('GJ.SC/02.convertLead/btnConvertLead'), 10)
 
@@ -65,7 +67,7 @@ CustomKeywords.'Common.AddressAutoComplete'(findTestObject('GJ.SC/03.ApplyPromoC
 
 WebUI.click(findTestObject('GJ.SC/01.Create Lead/btnSave'))
 
-WebUI.scrollToElement(findTestObject('GJ.SC/04.BookAppointment/btnbookappointment'), 0)
+//WebUI.scrollToElement(findTestObject('GJ.SC/04.BookAppointment/btnbookappointment'), 0)
 
 WebUI.click(findTestObject('GJ.SC/04.BookAppointment/btnbookappointment'))
 
