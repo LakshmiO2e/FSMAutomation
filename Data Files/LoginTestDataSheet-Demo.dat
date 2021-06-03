@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>00.Android - Login</name>
+   <name>LoginTestDataSheet-Demo</name>
    <tag></tag>
    <containsHeaders>true</containsHeaders>
    <csvSeperator></csvSeperator>
-   <dataFileGUID>adfdccb9-fa65-450c-91d4-3389f9a93166</dataFileGUID>
-   <dataSourceUrl>/Users/lakshmi.kandikuppa/git/FSMAutomation/00.Test Cases Data Files/Data - FSL GJ.xls</dataSourceUrl>
+   <dataFileGUID>04357eb0-5f70-4a74-9e21-105739ec65d0</dataFileGUID>
+   <dataSourceUrl>/Users/lakshmi.kandikuppa/git/FSMAutomation/00.Test Cases Data Files/Data - Web GJ.xls</dataSourceUrl>
    <driver>ExcelFile</driver>
    <isInternalPath>false</isInternalPath>
    <query></query>

@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import Common as Common
 
-WebUI.openBrowser('https://fsm-gj-na-obe.pantheonsite.io/onlinebooking')
+WebUI.openBrowser('https://sqa-gj-na-obe.pantheonsite.io/')
 
 WebUI.maximizeWindow()
 
@@ -67,9 +67,12 @@ WebUI.setText(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen
 WebUI.setText(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen/inptPhoneNr'), phoneNr)
 
 WebUI.click(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen/chkboxPromoCode'))
+
 WebUI.setText(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen/inptPromocode'), 'QAEARLPERCDISCGJ')
+
 WebUI.selectOptionByValue(findTestObject('01.GJOBE/02.Create new Appointment/Step 3 - Screen/slctPhoneType'), phoneType, 
-  false)
+    false)
+
 WebUI.comment('##### - Step 4')
 
 WebUI.click(findTestObject('00.Common Objects/btnNextPickUpAddress-Continue'))

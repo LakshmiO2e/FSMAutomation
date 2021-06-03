@@ -17,7 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import Common as Common
 
-WebUI.openBrowser('https://fsm-gj-au-obe.pantheonsite.io/onlinebooking')
+WebUI.openBrowser('https://sqa-gj-au-obe.pantheonsite.io/')
 
 WebUI.maximizeWindow()
 
@@ -34,7 +34,7 @@ WebUI.click(findTestObject('01.GJOBE/02.Create new Appointment/Step 1 - Screen/b
 
 WebUI.comment('##### - Step 2')
 
-WebUI.waitForElementNotVisible(findTestObject('01.GJOBE/00.CommonObjects/loadingSpinner'), 0)
+//WebUI.waitForElementNotVisible(findTestObject('01.GJOBE/00.CommonObjects/loadingSpinner'), 0)
 
 WebUI.click(findTestObject('01.GJOBE/02.Create new Appointment/Step 2 - Screen/00.CalendarObjects/TempObject-SaturdayDay'))
 
@@ -79,17 +79,17 @@ WebUI.comment('##### - Validation')
 
 WebUI.click(findTestObject('00.Common Objects/btnNextPickUpAddress-Continue'))
 
-if (Common.VerifyElementLabel(findTestObject('01.GJOBE/02.Create new Appointment/Step 4 - Screen/lblConfirmation'), '', 
-    'Your job has been confirmed!')) {
-    WebUI.comment('Job confirmed!' /* if (Common.ValidateEmailContent('delqaapoc@gmail.com', 'fsmQAfun1', GlobalVariable.GMAL_HOST, '', [validationEmailPhone
-            , validationEmailName])) {
-        WebUI.comment('Email Validation pass with all values validated')
-    } else {
-        WebUI.comment('Fail to validate one or more values')
-    }*/ )
-} else {
-    WebUI.comment('Fail to confirm Job!')
-}
+//if (Common.VerifyElementLabel(findTestObject('01.GJOBE/02.Create new Appointment/Step 4 - Screen/lblConfirmation'), '', 
+  //  'Your job has been confirmed!')) {
+    //WebUI.comment('Job confirmed!' /* if (Common.ValidateEmailContent('delqaapoc@gmail.com', 'fsmQAfun1', GlobalVariable.GMAL_HOST, '', [validationEmailPhone
+      //      , validationEmailName])) {
+        //WebUI.comment('Email Validation pass with all values validated')
+    //} else {
+      //  WebUI.comment('Fail to validate one or more values')
+    //}*/ )
+//} else {
+  //  WebUI.comment('Fail to confirm Job!')
+//}
 
 WebUI.delay(2)
 

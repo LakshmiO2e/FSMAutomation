@@ -37,11 +37,9 @@ Mobile.tap(findTestObject('Object Repository/02.ShackShine/SSH-FP/XCUIElementTyp
 Mobile.tap(findTestObject('Object Repository/02.ShackShine/SSH-FP/XCUIElementTypeStaticText - Create Customer'), 0)
 
 //Mobile.delay(20, FailureHandling.CONTINUE_ON_FAILURE)
-Mobile.tap(findTestObject('04.Mobile/01.IOS/00.Main Page/07. Menu - Create Customer/00. Step 1 - Choose Account Type/slctAccountType'), 
-    0)
-
-Mobile.tap(findTestObject('Object Repository/02.ShackShine/SSH-FP/XCUIElementTypeStaticText - Residential'), 0)
-
+//Mobile.tap(findTestObject('04.Mobile/01.IOS/00.Main Page/07. Menu - Create Customer/00. Step 1 - Choose Account Type/slctAccountType'), 
+//  0)
+//Mobile.tap(findTestObject('Object Repository/02.ShackShine/SSH-FP/XCUIElementTypeStaticText - Residential'), 0)
 Mobile.tap(findTestObject('04.Mobile/01.IOS/00.Common Objects/03. Button Objects/btnNext'), 0)
 
 //Mobile.setText(findTestObject('04.Mobile/01.IOS/00.Main Page/07. Menu - Create Customer/01. Step 2 - Account and Contact Details/inptAccountName'), 
@@ -78,18 +76,22 @@ Mobile.tap(findTestObject('Object Repository/04.Mobile/01.IOS/00.Main Page/05.Me
 Mobile.tap(findTestObject('Object Repository/04.Mobile/01.IOS/00.Main Page/05.Menu - Opportunities/Create Opportunity-Book Appointment/btnBookAppointment'), 
     0)
 
-Mobile.tap(findTestObject('Object Repository/04.Mobile/01.IOS/00.Main Page/05.Menu - Opportunities/Create Opportunity-Book Appointment/ddWorkType'), 
-    0)
+//Mobile.tap(findTestObject('Object Repository/04.Mobile/01.IOS/00.Main Page/05.Menu - Opportunities/Create Opportunity-Book Appointment/ddWorkType'), 
+//  0)
+//Mobile.tap(findTestObject('Object Repository/04.Mobile/01.IOS/00.Main Page/05.Menu - Opportunities/Create Opportunity-Book Appointment/selctdd-SSH - Estimate - Commercial'), 
+//  0)
+Mobile.delay(10, FailureHandling.CONTINUE_ON_FAILURE)
 
-Mobile.tap(findTestObject('Object Repository/04.Mobile/01.IOS/00.Main Page/05.Menu - Opportunities/Create Opportunity-Book Appointment/selctdd-SSH - Estimate - Commercial'), 
-    0)
-
-Mobile.tap(findTestObject('Object Repository/04.Mobile/01.IOS/00.Main Page/05.Menu - Opportunities/Create Opportunity-Book Appointment/btnGet Appointments'), 
+Mobile.tap(findTestObject('04.Mobile/01.IOS/00.Main Page/05.Menu - Opportunities/Create Opportunity-Book Appointment/btnGet Appointments'), 
     0)
 
 Mobile.tap(findTestObject('Object Repository/04.Mobile/01.IOS/00.Main Page/05.Menu - Opportunities/Create Opportunity-Book Appointment/lnkTimeSlot'), 
     0)
 
+Mobile.delay(8, FailureHandling.CONTINUE_ON_FAILURE)
+
 Mobile.tap(findTestObject('Object Repository/04.Mobile/01.IOS/00.Main Page/05.Menu - Opportunities/Create Opportunity-Book Appointment/XCUIElementTypeButton - Cancel'), 
     0)
+
+Mobile.delay(8, FailureHandling.CONTINUE_ON_FAILURE)
 
